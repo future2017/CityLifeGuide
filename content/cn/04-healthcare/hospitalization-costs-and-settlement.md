@@ -8,7 +8,7 @@ collected: 2026-09
 review_by: 2027-03
 sources:
   - 国家卫生健康委等 6 部门《关于规范公立医疗机构预交金管理工作的通知》及政策解读（2025-03，自 2025-06-30 起执行）
-    http://wsjkw.xingtai.gov.cn/content.php?id=8553
+    https://www.gov.cn/zhengce/zhengceku/202503/content_7016268.htm
   - 新华社《公立医院住院预交金，降！》（2025-03-28）
     http://www.news.cn/20250328/37b4b043bf2d4109abb13ed81442e119/c.html
   - 吉林省《规范公立医疗机构预交金管理实施细则》
@@ -50,7 +50,7 @@ sources:
   - 四川大学华西医院《出院病人病历复印需知》
     https://www.wchscu.cn/public/hospitalized/371.html
   - 山东省卫生健康委、山东省医保局《关于规范引导公立医疗机构发展特需医疗服务的意见》（鲁卫医字〔2026〕8号）
-    http://www.ny.gov.cn/art/2026/9/14/art_228254_10364107.html
+    http://wsjkw.shandong.gov.cn/zcwjts_45181/202605/t20260522_4967464.html
   - 重庆市医疗保障局《普通床位费医保支付标准》（政府指导价示例）
     https://ylbzj.cq.gov.cn/zwgk_535/zfxxgkml/zcwj_291934/gfxwj/202107/W020220719638085923020.pdf
   - 岳阳市医疗保障局、岳阳市卫生健康委员会《关于调整规范公立医疗机构医疗服务价格的通知》
