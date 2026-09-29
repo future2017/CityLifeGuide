@@ -36,6 +36,24 @@ sources:
   - 最高人民法院指导案例183号（年终奖发放前离职的认定）及央视网报道
     https://news.cctv.cn/2025/01/02/ARTIdvpNGphL3m6LrThxm9Eq250102.shtml
   - 12333 人力资源社会保障服务热线（拨打方式见文末）
+  - 《深圳市医疗保障办法》（深圳市人民政府令第 358 号）
+    https://hsa.sz.gov.cn/zwgk/zcfgjzcjd/zcfg/ylbx/content/post_10826882.html
+  - 《湖南省职工基本医疗保险实施办法》（湘政办发〔2022〕66 号）
+    https://ybj.hunan.gov.cn/ybj/first113541/firstF/f2113606/202301/t20230105_29175342.html
+  - 《劳动保障监察条例》（国务院令第 423 号）
+    https://flk.npc.gov.cn/detail?id=ff8080816f3cbb3c016f41114fec14e9&title=%E5%8A%B3%E5%8A%A8%E4%BF%9D%E9%9A%9C%E7%9B%91%E5%AF%9F%E6%9D%A1%E4%BE%8B
+  - 深圳市住房和建设局《在深圳购房申请公积金贷款，对申请人的公积金缴存时长有明确要求吗？》
+    https://zjj.sz.gov.cn/csml/zfgjjtlzx/zmhd/cjwtjd_236/dkyw/content/post_12461114.html
+  - 北京住房公积金管理中心《关于印发〈北京住房公积金缴存管理办法〉等文件的通知》
+    https://gjj.beijing.gov.cn/web/zwgk61/2024zcwj/436433461/436438767/index.html
+  - 《北京市积分落户管理办法》（京政办发〔2020〕9 号）
+    https://www.beijing.gov.cn/zhengce/zhengcefagui/202007/t20200716_1950304.html
+  - 上海市住房城乡建设管理委员会等五部门《关于进一步优化调整本市房地产政策的通知》
+    https://zjw.sh.gov.cn/gzdt/20260225/a17ee0d042724f819cec456cee4cbc75.html
+  - 《职工带薪年休假条例》（国务院令第 514 号）
+    https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6636.htm
+  - 《中华人民共和国劳动争议调解仲裁法》
+    https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf64f28039d&title=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%8A%B3%E5%8A%A8%E4%BA%89%E8%AE%AE%E8%B0%83%E8%A7%A3%E4%BB%B2%E8%A3%81%E6%B3%95
 ---
 
 # 离职流程与离职证明

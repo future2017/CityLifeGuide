@@ -16,13 +16,13 @@ sources:
   - 国家医保局《对十三届全国人大二次会议第8827号建议的答复》（医保函〔2019〕67号）
     https://www.nhsa.gov.cn/art/2019/8/13/art_26_1639.html
   - 《中华人民共和国社会救助法》（2026-04-30 通过，2026-07-01 施行）
-    http://paper.people.com.cn/rmrb/pc/content/202605/07/content_30155240.html
+    https://flk.npc.gov.cn/detail?id=016c39ca7739492cab1fe3aef22941c7
   - 《中华人民共和国医疗保障法》（2026-08-28 通过，2027-01-01 施行）
     https://www.news.cn/politics/20260828/dd01defc94094099a85edeacd6a268fb/c.html
   - 《中华人民共和国慈善法》第一百二十四条（2023-12-29 修改）
-    http://www.news.cn/politics/20231225/ed515164c06f41a68b67b34bb9c64ff5/c.html
+    https://flk.npc.gov.cn/detail?id=ff8081818d6a4639018df3f1fc7e122d
   - 《个人求助网络服务平台管理办法》（民政部等五部门令第75号，2024-09-05 公布施行）及政策解读
-    https://www.moj.gov.cn/pub/sfbgw/flfggz/flfggzbmgz/202504/t20250428_518216.html
+    https://www.mca.gov.cn/n2623/n2687/n2696/n2743/c1662004999980001328/content.html
   - 《公开募捐平台服务管理办法》（2026-05-01 施行）修订解读
     https://policy.mofcom.gov.cn/claw/policyInfo.shtml?id=8962
   - 民政部《关于拟指定的个人求助网络服务平台名单的公示》（2024-12-16）
@@ -46,6 +46,26 @@ sources:
   - 国家医保局、财政部、国家税务总局《关于做好2024年城乡居民基本医疗保障有关工作的通知》（医保发〔2024〕19号）政策解读
     https://fgk.chinatax.gov.cn/zcfgk/c100015/c5234041/content.html
   - 医保服务热线 12393、政务服务便民热线 12345（拨打方式见文末）
+  - 民政部《最低生活保障审核确认办法》（民发〔2021〕57号）
+    https://www.mca.gov.cn/n2623/n2687/n2696/n2745/c1662004999980008053/content.html
+  - 《社会救助暂行办法》（国务院令第649号）
+    https://www.gov.cn/zhengce/zhengceku/2014-02/27/content_8670.htm
+  - 民政部《关于指定个人求助网络服务平台的公告》（民政部公告第576号，2024-12-25）
+    https://www.mca.gov.cn/n2623/n2687/n2696/n2746/c1662004999980002937/content.html
+  - 红河州民政局等17部门《红河州低收入人口认定管理及救助帮扶实施细则（试行）》（红民发〔2024〕7号）
+    https://www.hh.gov.cn/info/10801/590452.htm
+  - 北京市《关于开展因病致贫家庭医疗救助有关问题的通知（试行）》（京民社救发〔2015〕403号）
+    https://ybj.beijing.gov.cn/zwgk/2024zcwj/202406/t20240612_3710378.html
+  - 中国红十字基金会《小天使基金资助管理规则》
+    https://www.crcf.org.cn/article/253
+  - 中国红十字基金会《天使阳光基金资助管理规则》
+    https://www.crcf.org.cn/article/289
+  - 中国红十字基金会《小天使基金申请方式》
+    https://www.crcf.org.cn/article/78
+  - 中国红十字基金会「天使阳光基金」项目页（资助标准与申请指引）
+    https://www.crcf.org.cn/article/category/xiangmu_name_tianshiyangguang
+  - 中华慈善总会「守望相助“救急难”行动」项目页（含试点地区动态）
+    https://www.chinacharityfederation.org/n.html?id=146352cf-0f2b-4d5d-8e38-78b2a0b8d921
 ---
 
 # 慈善资源与个人众筹

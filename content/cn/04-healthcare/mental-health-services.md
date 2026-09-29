@@ -43,6 +43,22 @@ sources:
     http://www.news.cn/politics/20240219/19121e8279884f219b6e52cf3a4622a0/c.html
   - 新京报《心理咨询师职业资格认证取消后，谁在收割焦虑？》
     https://m.bjnews.com.cn/detail/1746756043168948.html
+  - 国家医疗保障局《精神治疗类医疗服务价格项目立项指南（试行）》
+    https://www.nhsa.gov.cn/art/2024/11/19/art_201_14768.html
+  - 国务院办公厅《关于建立健全职工基本医疗保险门诊共济保障机制的指导意见》（国办发〔2021〕14号）
+    https://www.gov.cn/zhengce/content/2021-04/22/content_5601280.htm
+  - 辽宁省医疗保障局《关于完善全省门诊慢特病保障政策的通知》（辽医保发〔2023〕10号）
+    https://www.ln.gov.cn/web/zwgkx/lnsrmzfgb/2023n/zk/zk9/bmwj/2023080208540079992/
+  - 乐山市医疗保障局 乐山市财政局《关于印发〈乐山市基本医疗保险门诊慢特病实施细则〉的通知》（乐医保发〔2025〕23号）
+    https://www.leshan.gov.cn/lsswszf/shbzzcwj/90053490/773481756233797.html
+  - 《处方管理办法》（卫生部令第53号）
+    https://www.moj.gov.cn/pub/sfbgw/flfggz/flfggzbmgz/200706/t20070612_144412.html
+  - 《长期处方管理规范（试行）》（国卫办医发〔2021〕17号）
+    https://www.gov.cn/zhengce/zhengceku/2021-08/13/content_5631140.htm
+  - 《中华人民共和国民法典》
+    https://flk.npc.gov.cn/detail?id=ff808081729d1efe01729d50b5c500bf
+  - 《国家基本医疗保险诊疗项目范围》（劳社部发〔1999〕22号附件）
+    https://rsj.sh.gov.cn/trlzyhshbzbgz_17256/20200617/t0035_1388359.html
 ---
 
 # 心理健康服务获取
