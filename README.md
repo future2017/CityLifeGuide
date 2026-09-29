@@ -69,10 +69,17 @@ CityLifeGuide/
 ├── THIRD-PARTY.md           # 第三方素材来源与授权声明
 ├── CONTRIBUTING.md          # 贡献指南
 ├── content/
-│   ├── cn/                  # 国内版
-│   └── intl/                # 国际版
+│   ├── cn/                  # 国内版（OUTLINE.md = 大纲与目录）
+│   └── intl/                # 国际版（OUTLINE.md = outline & contents）
 └── .gitignore
 ```
+
+两版的大纲：
+
+- 国内版 → [`content/cn/OUTLINE.md`](content/cn/OUTLINE.md)
+- 国际版 → [`content/intl/OUTLINE.md`](content/intl/OUTLINE.md)
+
+> 两个版本是**同一主题的两套独立写法**，不是逐字翻译：国内版以「办事流程」为轴，国际版以「移居时间线」为轴，条目和侧重点都不同。
 
 ---
 
