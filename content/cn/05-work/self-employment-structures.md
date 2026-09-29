@@ -10,15 +10,15 @@ sources:
   - 《中华人民共和国民法典》（2020-05-28 通过，2021-01-01 施行）第五十四条、第五十六条
     https://flk.npc.gov.cn
   - 《中华人民共和国公司法》（2023-12-29 第二次修订，2024-07-01 施行）第三条、第四条、第二十三条、第四十七条
-    https://www.npc.gov.cn/npc/c2/c30834/202312/t20231229_433999.html
+    https://www.gov.cn/yaowen/liebiao/202312/content_6923395.htm
   - 《中华人民共和国市场主体登记管理条例》（国务院令第 746 号，2022-03-01 施行）第八条、第十九条、第三十条、第三十三条
-    http://amr.hunan.gov.cn/amr/zwx/xxgkmlx/zcfgx/zcfgxx/202304/t20230407_29307814.html
+    https://www.gov.cn/zhengce/content/2021-08/24/content_5632964.htm
   - 《中华人民共和国市场主体登记管理条例实施细则》（国家市场监督管理总局令第 52 号）
     https://www.gov.cn/zhengce/zhengceku/2022-03/02/content_5676403.htm
   - 《中华人民共和国税收征收管理法》（2015 年修订）第十五条、第四十四条、第六十条、第六十二条、第六十三条
     https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/201912/t20191218_1264451.html
   - 《中华人民共和国增值税法》（2024-12-25 通过，2026-01-01 施行）第九条、第二十三条
-    https://flk.npc.gov.cn
+    https://www.gov.cn/yaowen/liebiao/202412/content_6994557.htm
   - 财政部 税务总局《关于增值税法施行后增值税优惠政策衔接事项的公告》（财政部 税务总局公告 2026 年第 10 号）及国家税务总局配套解读
     https://shanghai.chinatax.gov.cn/jstax/ztzl/yshj/ldjj/202602/t479407.html
   - 财政部 税务总局《关于进一步支持小微企业和个体工商户发展有关税费政策的公告》（财政部 税务总局公告 2023 年第 12 号）
@@ -28,7 +28,7 @@ sources:
   - 国家发展改革委转载人力资源社会保障部《灵活就业人员如何参保》
     https://www.ndrc.gov.cn/fggz/jyysr/jysrsbxf/202209/t20220930_1338301.html
   - 《中华人民共和国社会保险法》第十条第二款
-    https://flk.npc.gov.cn
+    https://www.gov.cn/guoqing/2021-10/29/content_5647616.htm
   - 国家税务总局广东省税务局《灵活就业人员参保缴费信息采集和险种核定》
     https://guangdong.chinatax.gov.cn/gdsw/gzswlhjyrysyxxgl/2026-05/14/content_8dac78be3a604391a74b90bdd4104042.shtml
   - 国家税务总局山西省税务局办税指南（引用《税收征收管理法》第十五条与《税务登记管理办法》）
@@ -38,9 +38,9 @@ sources:
   - 《市场主体登记管理条例》（国务院令第746号，2021-07-27 公布，2022-03-01 施行）
     https://www.gov.cn/zhengce/content/2021-08/24/content_5632964.htm
   - 《企业经营异常名录管理办法》（2014 年工商总局令第68号公布，**2025-03-18 市场监管总局令第101号修订，2025-05-01 施行**）
-    https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=103777
+    https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2025/art_c3d4a523a6fe4f9eba30d2e75903e28d.html
   - 《企业信息公示暂行条例》（2014 年国务院令第654号公布，**2024-03-10 国务院令第777号修改，2024-05-01 施行**）
-    https://www.gov.cn/zhengce/2014-08/23/content_2739774.htm
+    https://www.samr.gov.cn/zt/ndzt/2025n/sqxzjcgs/jcbz/art/2025/art_671ac865c7a9410e832c3b95a1c786f7.html
   - 《促进个体工商户发展条例》（国务院令第755号）
 
 ---

@@ -29,13 +29,13 @@ sources:
   - 北京市东城区人民政府《医保不能报销？别忘了起付线呀》
     https://www.bjdch.gov.cn/zwgk/jgdh/qzfzcbmdh/qybj/bmgzybj/202401/t20240122_3542305.html
   - 广州市人民政府办公厅《广州市城乡居民社会医疗保险办法》（穗府办规〔2017〕24号）
-    https://www.gz.gov.cn/gfxwj/szfgfxwj/gzsrmzfbgt/content/post_5444878.html
+    https://www.gz.gov.cn/gfxwj/szfgfxwj/gzsrmzfbgt/content/post_7834334.html
   - 广州市医疗保障局《广州市社会医疗保险和生育保险就医管理办法》（穗医保规字〔2022〕3号）
     https://www.gz.gov.cn/gfxwj/sbmgfxwj/gzsylbzj/content/post_8689762.html
   - 深圳市医疗保障局《深圳居民医保参保指南来了！缴费标准、待遇明细全解读！》
     https://hsa.sz.gov.cn/fzlm/znts/cnyc/content/post_12540669.html
   - 深圳市人民政府令第256号《深圳市社会医疗保险办法》
-    https://www.sz.gov.cn/zfgb/2013/gb857/content/post_4948076.html
+    https://www.sz.gov.cn/gkmlpt/content/10/10826/post_10826875.html
   - 湖南省医疗保障局《湖南优化异地就医报销政策》
     https://ybj.hunan.gov.cn/ybj/first113541/f4113601/202602/t20260202_33907580.html
   - 辽宁省医疗保障局《【辽阳市】异地就医备案、报销政策早知道》

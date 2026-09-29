@@ -8,12 +8,14 @@ collected: 2026-09
 review_by: 2027-03
 sources:
   - 《中华人民共和国劳动法》第三十六、三十八、三十九、四十一、四十二、四十三、四十四、五十一、九十、九十一条
-    https://flk.npc.gov.cn/
+    https://www.mohrss.gov.cn/SYrlzyhshbzb/zcfg/flfg/201601/t20160119_232110.html
   - 《中华人民共和国劳动合同法》第二十六、三十一、八十五条
-    https://flk.npc.gov.cn/
+    https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/fl/202011/t20201102_394622.html
   - 《国务院关于职工工作时间的规定》（国务院令第174号，1995 年修订）第三条
+    https://xzfg.moj.gov.cn/front/law/detail?LawID=629
   - 《工资支付暂行规定》（劳部发〔1994〕489号）第十三条 / 《劳动部对〈工资支付暂行规定〉有关问题的补充规定》（劳部发〔1995〕226号）第二条
-    https://www.mohrss.gov.cn/
+    https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/bmgz/202011/t20201102_394693.html
+    https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/gfxwj/ldgx/201407/t20140717_136244.html
   - 《关于企业实行不定时工作制和综合计算工时工作制的审批办法》（劳部发〔1994〕503号）
     https://www.gdwc.gov.cn/zjwcrsj/gkmlpt/content/2/2022/post_2022013.html
   - 人社部《关于职工全年月平均工作时间和工资折算问题的通知》（人社部发〔2025〕2号）
@@ -30,7 +32,7 @@ sources:
   - 《劳动保障监察条例》（国务院令第423号）第二十五、二十六条
     https://hrss.sz.gov.cn/ztfw/xzzfgs/sqgk/yjxx/content/post_2015469.html
   - 《北京市工资支付规定》第十四、十五、十七、四十四条
-    https://www.beijing.gov.cn/gongkai/zfxxgk/zc/gz/202112/W020211224575744072611.pdf
+    https://www.beijing.gov.cn/zhengce/zhengcefagui/201905/t20190522_56550.html
   - 北京市人社局《加班工资如何计算？》
     http://rsj.beijing.gov.cn/xwsl/mtgz/201912/t20191206_932359.html
   - 《上海市企业工资支付办法》（沪人社规〔2026〕10号，2026-08-01 起施行）第九、十三、十四、二十一条
@@ -42,7 +44,7 @@ sources:
   - 上海市人社局《本市实行不定时工作制和综合计算工时工作制的行政许可办法》政策问答
     https://rsj.sh.gov.cn/tzcjd_17352_17352/20220708/t0035_1408220.html
   - 《广东省工资支付条例》第二十条、第六十二条 / 《深圳市员工工资支付条例》第四、十八、十九、二十条
-    https://www.dpxq.gov.cn/ztzl/gzqxjxs/zcfg_192578/content/post_10388468.html
+    https://www.sz.gov.cn/zfgb/2026/gb1402/content/post_12621646.html
   - 《关于企业实行不定时工作制和综合计算工时工作制的审批管理办法》（粤劳社发〔2009〕8号）
     http://dghrss.dg.gov.cn/bsfw/bsck/dwyw/qytsgssp/ywzy/content/post_222135.html
   - 广州市黄埔区人民政府 12345 热线答复：加班费计算基数如何判断

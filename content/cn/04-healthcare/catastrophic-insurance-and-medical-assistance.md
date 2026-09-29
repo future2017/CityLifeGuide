@@ -16,13 +16,13 @@ sources:
   - 国家医保局《对十三届全国人大二次会议第8827号建议的答复》（医保函〔2019〕67号）
     https://www.nhsa.gov.cn/art/2019/8/13/art_26_1639.html
   - 《中华人民共和国社会救助法》（2026-04-30 通过，2026-07-01 施行）
-    http://paper.people.com.cn/rmrb/pc/content/202605/07/content_30155240.html
+    http://www.npc.gov.cn/npc/c2/c30834/202604/t20260430_454303.html
   - 《中华人民共和国医疗保障法》（2026-08-28 通过，2027-01-01 施行）
-    https://www.news.cn/politics/20260828/dd01defc94094099a85edeacd6a268fb/c.html
+    http://www.npc.gov.cn/npc/c2/c30834/202608/t20260828_457228.html
   - 《中华人民共和国慈善法》第一百二十四条（2023-12-29 修改）
-    http://www.news.cn/politics/20231225/ed515164c06f41a68b67b34bb9c64ff5/c.html
+    https://www.gov.cn/yaowen/liebiao/202312/content_6923390.htm
   - 《个人求助网络服务平台管理办法》（民政部等五部门令第75号，2024-09-05 公布施行）及政策解读
-    https://www.moj.gov.cn/pub/sfbgw/flfggz/flfggzbmgz/202504/t20250428_518216.html
+    https://www.miit.gov.cn/zcfg/qtl/art/2025/art_2d6278e7dd114c979879c7bf667d42f3.html
   - 《公开募捐平台服务管理办法》（2026-05-01 施行）修订解读
     https://policy.mofcom.gov.cn/claw/policyInfo.shtml?id=8962
   - 民政部《关于拟指定的个人求助网络服务平台名单的公示》（2024-12-16）

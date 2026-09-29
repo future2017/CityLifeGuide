@@ -8,7 +8,7 @@ collected: 2026-09
 review_by: 2027-03
 sources:
   - 《中华人民共和国劳动合同法》（2007 年 6 月 29 日主席令第六十五号公布，2008-01-01 起施行）
-    https://www.gjxfj.gov.cn/gjxfj/xxgk/fgwj/flfg/webinfo/2016/03/1460585589931971.htm
+    https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/fl/202011/t20201102_394622.html
   - 《中华人民共和国劳动合同法实施条例》（国务院令第 535 号，2008-09-18 公布施行）
     https://xzfg.moj.gov.cn/front/law/detail?LawID=284
   - 最高人民法院《关于审理劳动争议案件适用法律问题的解释（二）》（法释〔2025〕12 号，2025-09-01 起施行）
@@ -18,7 +18,7 @@ sources:
   - 辽宁省人力资源和社会保障厅 调解仲裁典型案例《视为订立无固定期限劳动合同后用人单位仍未与劳动者签订劳动合同的是否应当支付第二倍工资》
     https://rst.ln.gov.cn/rst/ztzl/lnsldrszydjzc/dxal/472D84E51E74483B92339D27EEB7A44B/index.shtml
   - 《工资支付暂行规定》（劳部发〔1994〕489 号）及《对〈工资支付暂行规定〉有关问题的补充规定》（劳部发〔1995〕226 号）
-    https://www.sz.gov.cn/zfgb/2002/gb298/content/post_4969442.html
+    https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/gfxwj/ldgx/201407/t20140717_136244.html
   - 国家法律法规数据库（法条原文核对入口）
     https://flk.npc.gov.cn
   - 12333 人力资源社会保障服务热线（拨打方式见文末）

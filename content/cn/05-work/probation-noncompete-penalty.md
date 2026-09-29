@@ -8,7 +8,7 @@ collected: 2026-09
 review_by: 2027-03
 sources:
   - 《中华人民共和国劳动合同法》（2012-12-28 修正）全文，中国人大网
-    http://www.npc.gov.cn/npc/c1773/c2518/c12898/201905/t20190523_46320.html
+    https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/fl/202011/t20201102_394622.html
   - 《中华人民共和国劳动合同法实施条例》（国务院令第 535 号），中国政府网
     https://www.gov.cn/zwgk/2008-09/19/content_1099470.htm
   - 《最高人民法院关于审理劳动争议案件适用法律问题的解释（一）》（法释〔2020〕26 号）全文
@@ -18,10 +18,10 @@ sources:
   - 人力资源社会保障部办公厅《企业实施竞业限制合规指引》（人社厅发〔2025〕40 号，2025-09-04）
     https://www.gov.cn/zhengce/zhengceku/202509/content_7040571.htm
   - 《中华人民共和国社会保险法》第五十八条，国家税务总局法规库全文
-    https://fgk.chinatax.gov.cn/zcfgk/c100009/c5192937/content.html
+    https://www.gov.cn/guoqing/2021-10/29/content_5647616.htm
   - 《中华人民共和国民法典》第五百八十五条（国家法律法规数据库 https://flk.npc.gov.cn 可全文检索）
   - 《中华人民共和国劳动争议调解仲裁法》第二十七条、第二十九条、第四十三条，国家信访局转载全文
-    https://www.gjxfj.gov.cn/gjxfj/xxgk/fgwj/flfg/webinfo/2016/03/1460585589964384.htm
+    http://www.npc.gov.cn/npc/c2/c183/c198/201905/t20190522_28233.html
   - 江苏省人力资源和社会保障厅《劳动者和用人单位签订了竞业限制协议后与单位解除劳动合同，用人单位是否需要支付经济补偿？标准是什么？》
     http://jshrss.jiangsu.gov.cn/art/2019/4/23/art_77262_9081885.html
   - 深圳市人力资源和社会保障局《劳动争议仲裁的时效有何规定？》

@@ -26,7 +26,7 @@ sources:
   - 山东省医疗保障局《心理治疗纳入医保》答复
     http://ybj.shandong.gov.cn/jact/front/mailpubdetail.do?transactId=586786&sysid=621
   - 《中华人民共和国精神卫生法》（国家法律法规数据库）
-    https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf7448a066d
+    https://www.gov.cn/guoqing/2021-10/29/content_5647635.htm
   - 人力资源社会保障部《关于公布国家职业资格目录的通知》（人社部发〔2017〕68 号，地方人社局转载）
     http://hrss.siping.gov.cn/zcfbjjd_2289/zcwd/202112/t20211221_603999.html
   - 教育部办公厅《中小学心理辅导室建设指南》（教基一厅函〔2015〕36 号）

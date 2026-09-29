@@ -8,14 +8,14 @@ collected: 2026-09
 review_by: 2027-03
 sources:
   - 《院前医疗急救管理办法》（国家卫生和计划生育委员会令第 3 号，2014-02-01 起施行）
-    https://www.gov.cn/gongbao/content/2014/content_2580977.htm
+    https://www.nhc.gov.cn/wjw/c100221/202201/26ea3c97e82d466f9aa2b4a9901ae187/files/%E9%99%A2%E5%89%8D%E5%8C%BB%E7%96%97%E6%80%A5%E6%95%91%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95.pdf
   - 《急诊科建设与管理指南（试行）》（卫医政发〔2009〕50 号）——「首诊负责制」「先及时救治、后补交费用」
   - 《需要紧急救治的急危重伤病标准及诊疗规范》（国卫办医发〔2013〕32 号）——急诊病情四级分级的依据
     http://www.pwccw.gd.gov.cn/dfzc/content/post_1312011.html
   - DB4403/T 244—2022《急诊患者分级分诊规范》（深圳市地方标准，深圳市卫生健康委）
     https://wjw.sz.gov.cn/attachment/1/1009/1009589/9981723.pdf
   - 《北京市院前医疗急救服务条例》（2016 年通过，2021 年修正）
-    https://wjw.beijing.gov.cn/zwgk_20040/zcwj2022/flfg/202304/t20230406_2991349.html
+    https://www.bjrd.gov.cn/rdzl/dfxfgdxb/202106/P020210624349187919155.pdf
   - 北京急救中心《院前医疗服务项目价格查询》（含救护车转运费、跨省市长途转运价目）
     https://www.120beijing.cn/channel/185
   - 北京急救中心《关于我们》（北京统一为一个医疗急救号码「120」）

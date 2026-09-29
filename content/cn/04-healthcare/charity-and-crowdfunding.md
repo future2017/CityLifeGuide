@@ -16,13 +16,13 @@ sources:
   - 国家医保局《对十三届全国人大二次会议第8827号建议的答复》（医保函〔2019〕67号）
     https://www.nhsa.gov.cn/art/2019/8/13/art_26_1639.html
   - 《中华人民共和国社会救助法》（2026-04-30 通过，2026-07-01 施行）
-    https://flk.npc.gov.cn/detail?id=016c39ca7739492cab1fe3aef22941c7
+    http://www.npc.gov.cn/npc/c2/c30834/202604/t20260430_454303.html
   - 《中华人民共和国医疗保障法》（2026-08-28 通过，2027-01-01 施行）
-    https://www.news.cn/politics/20260828/dd01defc94094099a85edeacd6a268fb/c.html
+    http://www.npc.gov.cn/npc/c2/c30834/202608/t20260828_457228.html
   - 《中华人民共和国慈善法》第一百二十四条（2023-12-29 修改）
-    https://flk.npc.gov.cn/detail?id=ff8081818d6a4639018df3f1fc7e122d
+    https://www.gov.cn/yaowen/liebiao/202312/content_6923390.htm
   - 《个人求助网络服务平台管理办法》（民政部等五部门令第75号，2024-09-05 公布施行）及政策解读
-    https://www.mca.gov.cn/n2623/n2687/n2696/n2743/c1662004999980001328/content.html
+    https://www.miit.gov.cn/zcfg/qtl/art/2025/art_2d6278e7dd114c979879c7bf667d42f3.html
   - 《公开募捐平台服务管理办法》（2026-05-01 施行）修订解读
     https://policy.mofcom.gov.cn/claw/policyInfo.shtml?id=8962
   - 民政部《关于拟指定的个人求助网络服务平台名单的公示》（2024-12-16）
@@ -49,7 +49,7 @@ sources:
   - 民政部《最低生活保障审核确认办法》（民发〔2021〕57号）
     https://www.mca.gov.cn/n2623/n2687/n2696/n2745/c1662004999980008053/content.html
   - 《社会救助暂行办法》（国务院令第649号）
-    https://www.gov.cn/zhengce/zhengceku/2014-02/27/content_8670.htm
+    http://www.npc.gov.cn/npc/c2/c30834/202604/t20260430_454303.html
   - 民政部《关于指定个人求助网络服务平台的公告》（民政部公告第576号，2024-12-25）
     https://www.mca.gov.cn/n2623/n2687/n2696/n2746/c1662004999980002937/content.html
   - 红河州民政局等17部门《红河州低收入人口认定管理及救助帮扶实施细则（试行）》（红民发〔2024〕7号）

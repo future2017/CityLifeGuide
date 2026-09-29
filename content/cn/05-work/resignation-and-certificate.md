@@ -8,11 +8,11 @@ collected: 2026-09
 review_by: 2027-03
 sources:
   - 《中华人民共和国劳动合同法》（2007年6月29日主席令第六十五号公布，2012年修正）
-    https://flk.npc.gov.cn/
+    https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/fl/202011/t20201102_394622.html
   - 《中华人民共和国劳动合同法实施条例》（国务院令第535号）
     https://xzfg.moj.gov.cn/front/law/detail?LawID=284
   - 《劳动合同法实施条例》全文（最高人民法院公报）
-    http://gongbao.court.gov.cn/Details/5b891a5874eace31382c38e3bbc317.html
+    https://xzfg.moj.gov.cn/front/law/detail?LawID=284
   - 人社部《解除或者终止劳动合同的经济补偿按照什么标准支付？》
     https://chinajob.mohrss.gov.cn/h5/c/2024-08-09/413251.shtml
   - 人社部《用人单位与劳动者协商一致解除劳动合同的，是否支付经济补偿？》
@@ -20,9 +20,9 @@ sources:
   - 《工资支付暂行规定》（劳部发〔1994〕489号）第九条
     https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/bmgz/202011/t20201102_394693.html
   - 《中华人民共和国社会保险法》第四十五条、第四十六条（失业保险金条件与期限）
-    https://fgk.chinatax.gov.cn/zcfgk/c100009/c5192937/content.html
+    https://www.gov.cn/guoqing/2021-10/29/content_5647616.htm
   - 《住房公积金管理条例》（国务院令第262号发布，**2026-08-10 国务院令第844号第三次修订，2026-09-20 施行**）第十五条
-    https://xzfg.moj.gov.cn/front/law/detail?LawID=1221
+    https://www.gov.cn/zhengce/content/202608/content_7078477.htm
   - 《流动人员人事档案管理服务规定》（人社部发〔2021〕112号）第六条、第八条、第二十条
     https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/gfxwj/jy/202201/t20220110_432603.html
   - 上海市人社局《单位可以提前30天通知劳动者解除合同吗？》（第四十条、代通知金口径）
@@ -34,7 +34,7 @@ sources:
   - 新华网客户端《离职证明写"辱骂同事、造谣、不服从"，致求职受阻！法院判了》（上海杨浦法院）
     https://app.xinhuanet.com/news/article.html?articleId=202609189c6b51949c1347fc942df4b1a65a41f8
   - 最高人民法院指导案例183号（年终奖发放前离职的认定）及央视网报道
-    https://news.cctv.cn/2025/01/02/ARTIdvpNGphL3m6LrThxm9Eq250102.shtml
+    https://www.court.gov.cn/shenpan/xiangqing/364671.html
   - 12333 人力资源社会保障服务热线（拨打方式见文末）
   - 《深圳市医疗保障办法》（深圳市人民政府令第 358 号）
     https://hsa.sz.gov.cn/zwgk/zcfgjzcjd/zcfg/ylbx/content/post_10826882.html
@@ -51,9 +51,9 @@ sources:
   - 上海市住房城乡建设管理委员会等五部门《关于进一步优化调整本市房地产政策的通知》
     https://zjw.sh.gov.cn/gzdt/20260225/a17ee0d042724f819cec456cee4cbc75.html
   - 《职工带薪年休假条例》（国务院令第 514 号）
-    https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6636.htm
+    https://www.gov.cn/flfg/2007-12/16/content_835527.htm
   - 《中华人民共和国劳动争议调解仲裁法》
-    https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf64f28039d&title=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%8A%B3%E5%8A%A8%E4%BA%89%E8%AE%AE%E8%B0%83%E8%A7%A3%E4%BB%B2%E8%A3%81%E6%B3%95
+    http://www.npc.gov.cn/npc/c2/c183/c198/201905/t20190522_28233.html
   - 国务院《关于修改〈住房公积金管理条例〉的决定》（国务院令第844号，2026-08-10 公布，2026-09-20 施行）
     https://www.gov.cn/zhengce/zhengceku/202608/content_7078478.htm
 ---

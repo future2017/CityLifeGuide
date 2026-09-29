@@ -8,6 +8,7 @@ collected: 2026-09
 review_by: 2027-03
 sources:
   - 《中华人民共和国社会保险法》第十条第二款
+    https://www.gov.cn/guoqing/2021-10/29/content_5647616.htm
   - 国务院办公厅《关于健全基本医疗保险参保长效机制的指导意见》（国办发〔2024〕38号）
     https://www.gov.cn/zhengce/content/202408/content_6965741.htm
   - 国家医保局等《关于加强和改进基本医疗保险参保工作的指导意见》（医保发〔2020〕33号）
