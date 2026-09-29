@@ -1,7 +1,7 @@
 ---
 title: 异地就医备案
 part: 4 · 医疗
-section: 4.4
+section: "4.4"
 scope: 全国（报销比例降幅等细则由参保地决定，见「各地差异」）
 applies_to: [职工医保参保人, 居民医保参保人]
 collected: 2026-09
