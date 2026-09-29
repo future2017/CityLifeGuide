@@ -22,7 +22,7 @@ sources:
   - 北京市中医药管理局《你真的会打 120 吗？救命电话的正确打开方式》
     https://zyj.beijing.gov.cn/sy/whkp/202510/t20251027_4240919.html
   - 新华网《北京急救呼叫号码明年底统一为 120》（999 转为非急救转运与航空医疗）
-    http://www.xinhuanet.com/politics/2020-07/29/c_1126296951.htm
+    https://120beijing.cn/channel/183
   - 国家医保局、财政部《关于进一步做好基本医疗保险跨省异地就医直接结算工作的通知》所附《基本医疗保险跨省异地就医直接结算经办规程》第三十四条（急诊抢救视同已备案）
     https://www.nhsa.gov.cn/art/2022/7/26/art_104_8629.html
   - 苏州市医疗保障局《转发〈江苏省医疗保障局 江苏省卫生健康委员会关于做好急危重伤病参保人员门（急）诊医疗费用保障工作的通知〉》（苏医保发〔2022〕42 号）
@@ -32,11 +32,11 @@ sources:
   - 上海市人民政府英文门户《Emergency medical services in Shanghai》（救护车起步价与里程计价）
     https://english.shanghai.gov.cn/en-Individuals-Healthcare-Emergency/20260805/a2e3934c983d4558a70228832148555f.html
   - 解放日报《120 救护车怎么收费？医保能报销吗？120 和 962120 有何区别？》
-    https://www.jfdaily.com/news/detail?id=658037
+    https://www.shqp.gov.cn/wsjkw/fwjg/20210903/888386.html
   - 新疆维吾尔自治区医疗保障局《关于做好自治区基本医疗保险参保人员急诊医疗费用保障工作的通知》（新医保发〔2023〕49 号，2023-12-01 起执行）
     https://ylbzj.xinjiang.gov.cn/ylbzj/ylbx/202308/4e14e7268dd044488fc407d41a9ac448.shtml
   - 保定市人力资源和社会保障局《保定市城乡居民基本医疗保险急诊急救、转诊、异地居住管理办法》（保人社字〔2018〕258 号，含「急诊抢救与住院时间未间断则费用并入住院」「门诊抢救死亡视同一次住院」）
-  - 央广网《拨打 120 能被定位吗？这份急救小贴士请收下》（北京急救中心专家：不要抢话、断线会持续回拨并联动 110、异地 120 需加区号）
+  - 央广网《拨打 120 能被定位吗？这份急救小贴士请收下》（北京急救中心专家：不要抢话、断线会持续回拨并联动 110、异地 120 需加区号；**未见官方发布页，属媒体来源**）
     http://m.cnr.cn/chanjing/health/20220607/t20220607_525854700.html
   - 中国疾病预防控制中心《时间就是心肌，时间就是生命》
     https://www.chinacdc.cn/jkkp/mxfcrb/xxg/202411/t20241120_302729.html
@@ -45,7 +45,7 @@ sources:
   - 云南省卫生健康委员会《发现胸痛时应该怎么办》
     http://ynswsjkw.yn.gov.cn/html/2025/xuanchuankejiao_1124/4023940.html
   - 新华网（科技日报）《海姆立克急救法 2.0 版新在哪儿》
-    https://www.news.cn/sci-tech/20260203/2b98486b8c4b473f9e3348cfb92b44e6/c.html
+    https://wjw.shanxi.gov.cn/zfxxgk/fdzdgknr/jkzx/202603/t20260326_10087217.shtml
   - 北京市密云区红十字会《成人胸外电除颤加心肺复苏操作流程》
     https://miyun.bjredcross.org.cn/contents/yjjh/2026010425151.html
   - 沈阳市人民政府《日常需要掌握哪些急救知识技能？应急救护怎么做？》
@@ -63,7 +63,7 @@ sources:
   - 国家卫生健康委 2026 年 6 月 1 日新闻发布会（儿童就近就医、夜间门诊与周末门诊）
     https://www.nhc.gov.cn/wjw/c100365/hdjl_xwfbh_detail.shtml?id=353e66fd043440368325cc197be7b625
   - 人民网健康《北京儿童医院专家提示：儿童出现这些情况要及时就诊》
-    http://health.people.com.cn/n1/2022/1213/c14739-32586514.html
+    http://ynswsjkw.yn.gov.cn/html/2022/xuanchuankejiao_1214/15812.html
   - 医保服务热线 12393、政务服务热线 12345（拨打方式见文末）
   - 《健康中国行动（2019—2030 年）》（健康中国行动推进委员会，2019）
     https://www.nhc.gov.cn/guihuaxxs/c100133/201907/2a6ed52f1c264203b5351bdbbadd2da8.shtml

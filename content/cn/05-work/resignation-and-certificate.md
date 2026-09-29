@@ -30,8 +30,8 @@ sources:
   - 开平市人社局《未及时开具解除劳动关系证明》（第五十条、第八十九条口径）
     http://www.kaiping.gov.cn/kpsrlzyhshbzj/xxfb/zscd/content/post_3140067.html
   - 新华网《离职证明频频引发纠纷 用人单位不能"任性"》（离职证明内容边界、不得附加条件）
-    http://www.news.cn/legal/20240717/101c8a0b3020424e99db04a5b457cb98/c.html
-  - 新华网客户端《离职证明写"辱骂同事、造谣、不服从"，致求职受阻！法院判了》（上海杨浦法院）
+    https://chinajob.mohrss.gov.cn/h5/c/2021-06-15/309678.shtml
+  - 新华网客户端《离职证明写"辱骂同事、造谣、不服从"，致求职受阻！法院判了》（上海杨浦法院；**该案无官方通报页，仅见媒体转载**）
     https://app.xinhuanet.com/news/article.html?articleId=202609189c6b51949c1347fc942df4b1a65a41f8
   - 最高人民法院指导案例183号（年终奖发放前离职的认定）及央视网报道
     https://www.court.gov.cn/shenpan/xiangqing/364671.html

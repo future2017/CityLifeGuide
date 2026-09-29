@@ -22,7 +22,7 @@ sources:
     https://www.gov.cn/zhengce/zhengceku/202501/content_6995777.htm
   - 人社部办公厅《关于做好〈国务院关于修改全国年节及纪念日放假办法的决定〉贯彻实施工作的通知》（人社厅函〔2025〕1号）
   - 人社部劳动关系司答网民问：法定节假日加班的三倍工资是否另外支付
-    https://app.xinhuanet.com/news/article.html?articleId=832eb51f327dc50eeda563d97d125850
+    https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/gfxwj/ldgx/201407/t20140717_136244.html
   - 苏州市人社局《法定节假日天数调整会影响工资折算吗？》
     https://www.suzhou.gov.cn/gxbysjycy/bysjyhh/202506/ca8fb3b813e24cf1bf2cb3e985ad7643.shtml
   - 《最高人民法院关于审理劳动争议案件适用法律问题的解释（一）》（法释〔2020〕26号）第三十五、四十二条
@@ -52,7 +52,7 @@ sources:
   - 衡阳市人社局《实行不定时工作制的职工无加班费》（含《湖南省工资支付监督管理办法》第十五、十八条）
     https://www.hengyang.gov.cn/hysrsj/ywgz/ldqy/20210621/i2409269.html
   - 北京二中院「法官说法」：加班与值班的区分（引《北京市高级人民法院、北京市劳动人事争议仲裁委员会关于审理劳动争议案件解答（一）》第 56 条）
-    https://xinwen.bjd.com.cn/content/s6732db5dd5de417e57f5f899.html
+    https://rsj.beijing.gov.cn/xxgk/tzgg/202404/t20240430_3648905.html
   - 攀枝花市劳动人事争议仲裁院《加班与值班的区别》
     http://rsj.panzhihua.gov.cn/pzhsldrszyzcy/aljx/1057041.shtml
 ---

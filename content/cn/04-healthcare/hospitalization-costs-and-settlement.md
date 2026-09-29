@@ -10,7 +10,7 @@ sources:
   - 国家卫生健康委等 6 部门《关于规范公立医疗机构预交金管理工作的通知》及政策解读（2025-03，自 2025-06-30 起执行）
     https://www.gov.cn/zhengce/zhengceku/202503/content_7016268.htm
   - 新华社《公立医院住院预交金，降！》（2025-03-28）
-    http://www.news.cn/20250328/37b4b043bf2d4109abb13ed81442e119/c.html
+    https://www.gov.cn/zhengce/zhengceku/202503/content_7016268.htm
   - 吉林省《规范公立医疗机构预交金管理实施细则》
     https://xxgk.jl.gov.cn/zcbm/fgw_98077/xxgkmlqy/202507/P020250701338690953857.pdf
   - 鄂尔多斯市东胜区人民医院《关于住院预交金收费标准及缴费、退费流程公示》（2025-06-27）
