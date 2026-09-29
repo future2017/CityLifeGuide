@@ -165,8 +165,12 @@ sources:
 
 ### Part 12 · Country notes
 
+> **v1 scope locked (2026-09-29): United States · Germany · Japan.**
+> Do these three properly before adding a fourth. Two federal systems and one non-federal
+> system, which is deliberate — it forces the framework to handle both.
+
 - 12.1 The common framework — what every country card contains
-- 12.2 Country cards
+- 12.2 Country cards — 🇺🇸 United States · 🇩🇪 Germany · 🇯🇵 Japan
 
 Each card uses fixed fields so countries can be compared at a glance:
 
@@ -179,9 +183,42 @@ Each card uses fixed fields so countries can be compared at a glance:
 紧急号码 / Emergency   →
 ```
 
+**Why these three:** the US and Germany are the two most common destinations where the
+process genuinely defeats people on the first attempt, and they differ enough to stress-test
+the framework (federal vs. state vs. municipal competence). Japan is the hardest case for
+language and for rules that are national but administered locally — if the framework survives
+Japan it survives anything.
+
 ---
 
-## 4. Appendices
+## 4. Directory and file conventions
+
+```text
+content/intl/
+├── OUTLINE.md
+├── 01-before-you-go/
+├── 02-landing-week/
+├── 03-housing/
+├── 04-money-tax/
+├── 05-health/
+├── 06-work/
+├── 07-education-family/
+├── 08-transport/
+├── 09-daily-life/
+├── 10-when-things-go-wrong/
+├── 11-leaving/
+└── 12-country-notes/
+```
+
+- Directories: `NN-<part-name>` matching the part number. Create a directory when content
+  lands, not in advance.
+- Files: `<topic>-<country>.md`, lowercase, hyphenated, e.g. `open-bank-account-germany.md`.
+- Country-specific documents live in the part they belong to, **not** in `12-country-notes/`.
+  Part 12 holds the comparison cards only.
+
+---
+
+## 5. Appendices
 
 ### Appendix A · Emergency numbers by country
 ### Appendix B · Official portals by country
@@ -203,7 +240,7 @@ What the key documents are actually called in each language — the single most 
 
 ---
 
-## 5. Editorial conventions
+## 6. Editorial conventions
 
 | Item | Convention |
 |---|---|
