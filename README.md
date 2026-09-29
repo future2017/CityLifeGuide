@@ -99,8 +99,9 @@ CityLifeGuide/
 
 ## 📮 联系
 
-- GitHub Issue：https://github.com/future2017/CityLifeGuide/issues
-- 邮箱：xxx9956@163.com
+所有反馈、勘误与内容建议一律走 GitHub Issue：
+
+https://github.com/future2017/CityLifeGuide/issues
 
 ---
 
