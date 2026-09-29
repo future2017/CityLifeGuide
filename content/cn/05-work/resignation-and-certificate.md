@@ -21,7 +21,7 @@ sources:
     https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/bmgz/202011/t20201102_394693.html
   - 《中华人民共和国社会保险法》第四十五条、第四十六条（失业保险金条件与期限）
     https://fgk.chinatax.gov.cn/zcfgk/c100009/c5192937/content.html
-  - 《住房公积金管理条例》（国务院令第262号，2019年修订）第十五条
+  - 《住房公积金管理条例》（国务院令第262号发布，**2026-08-10 国务院令第844号第三次修订，2026-09-20 施行**）第十五条
     https://xzfg.moj.gov.cn/front/law/detail?LawID=1221
   - 《流动人员人事档案管理服务规定》（人社部发〔2021〕112号）第六条、第八条、第二十条
     https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/gfxwj/jy/202201/t20220110_432603.html
@@ -54,6 +54,8 @@ sources:
     https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6636.htm
   - 《中华人民共和国劳动争议调解仲裁法》
     https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf64f28039d&title=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%8A%B3%E5%8A%A8%E4%BA%89%E8%AE%AE%E8%B0%83%E8%A7%A3%E4%BB%B2%E8%A3%81%E6%B3%95
+  - 国务院《关于修改〈住房公积金管理条例〉的决定》（国务院令第844号，2026-08-10 公布，2026-09-20 施行）
+    https://www.gov.cn/zhengce/zhengceku/202608/content_7078478.htm
 ---
 
 # 离职流程与离职证明
