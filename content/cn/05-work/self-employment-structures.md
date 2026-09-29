@@ -22,7 +22,7 @@ sources:
   - 财政部 税务总局《关于增值税法施行后增值税优惠政策衔接事项的公告》（财政部 税务总局公告 2026 年第 10 号）及国家税务总局配套解读
     https://shanghai.chinatax.gov.cn/jstax/ztzl/yshj/ldjj/202602/t479407.html
   - 财政部 税务总局《关于进一步支持小微企业和个体工商户发展有关税费政策的公告》（财政部 税务总局公告 2023 年第 12 号）
-    http://www.hhw.gov.cn/hhw/hhwzdly/jsjfxxgk/xxwlqysdsyhzc/content/post_1002739.html
+    https://fgk.chinatax.gov.cn/zcfgk/c102416/c5210453/content.html
   - 国家税务总局《关于进一步落实支持个体工商户发展个人所得税优惠政策有关事项的公告》及官方解读
     https://fgk.chinatax.gov.cn/zcfgk/c100012/c5213596/content.html
   - 国家发展改革委转载人力资源社会保障部《灵活就业人员如何参保》

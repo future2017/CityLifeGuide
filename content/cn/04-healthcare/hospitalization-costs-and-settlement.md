@@ -46,7 +46,7 @@ sources:
   - 《医疗机构病历管理规定（2013年版）》（国卫医发〔2013〕31号）
     https://www.nhc.gov.cn/yzygj/c100068/201312/c9955f0471c04450a9f9ab74648fbdd4.shtml
   - 卫生部《病历书写基本规范》（卫医政发〔2010〕11号）
-    https://yygl.bjmu.edu.cn/yygl/ylws/4bf0da5292a3494b8f5ffc27a3c17c76.htm
+    https://www.nhc.gov.cn/wjw/gfxwj/201002/79d42b9c8b3f47ee91000d31de116784.shtml
   - 四川大学华西医院《出院病人病历复印需知》
     https://www.wchscu.cn/public/hospitalized/371.html
   - 山东省卫生健康委、山东省医保局《关于规范引导公立医疗机构发展特需医疗服务的意见》（鲁卫医字〔2026〕8号）

@@ -17,7 +17,7 @@ sources:
     https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/bmgz/202011/t20201102_394693.html
     https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/gfxwj/ldgx/201407/t20140717_136244.html
   - 《关于企业实行不定时工作制和综合计算工时工作制的审批办法》（劳部发〔1994〕503号）
-    https://www.gdwc.gov.cn/zjwcrsj/gkmlpt/content/2/2022/post_2022013.html
+    https://www.gov.cn/zhengce/2022-08/31/content_5711263.htm
   - 人社部《关于职工全年月平均工作时间和工资折算问题的通知》（人社部发〔2025〕2号）
     https://www.gov.cn/zhengce/zhengceku/202501/content_6995777.htm
   - 人社部办公厅《关于做好〈国务院关于修改全国年节及纪念日放假办法的决定〉贯彻实施工作的通知》（人社厅函〔2025〕1号）

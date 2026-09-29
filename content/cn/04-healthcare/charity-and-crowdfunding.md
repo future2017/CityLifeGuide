@@ -37,8 +37,8 @@ sources:
     https://cszg.mca.gov.cn/
   - 北京市因病致贫家庭医疗救助经办口径（乡镇/街道受理、材料清单、不予批准书面告知）
     https://zyk.bjhd.gov.cn/jbdt/auto4561_51857/auto4561_58106/qr/201810/t20181002_3159094_hd.shtml
-  - 广州市《广州市医疗救助办法实施细则》（申请材料与受理流程）
-    https://www.gz.gov.cn/gfxwj/sbmgfxwj/gzsylbzj/content/post_5488543.html
+  - 广州市《广州市医疗救助办法实施细则》（穗医保规字〔2024〕5号，2024-12-30 印发）
+    https://www.gz.gov.cn/gzybj/gkmlpt/content/10/10061/post_10061735.html
   - 柳州市柳江区《依申请医疗救助如何办理》（"一门受理、协同办理"流程范本）
     http://www.liujiang.gov.cn/xwzx/ljxw/202207/t20220721_3100418.shtml
   - 武汉市医疗保障局《医保问答系列之医疗救助政策问答》（门诊救助分档与封顶线、救助对象分类）

@@ -8,7 +8,7 @@ collected: 2026-09
 review_by: 2027-03
 sources:
   - 《劳动争议调解仲裁法》（2008-05-01 施行）
-    https://www.gjxfj.gov.cn/gjxfj/xxgk/fgwj/flfg/webinfo/2016/03/1460585589964384.htm
+    http://www.npc.gov.cn/npc/c2/c183/c198/201905/t20190522_28233.html
   - 《劳动人事争议仲裁办案规则》（人力资源社会保障部令第33号，2017-07-01 施行）
     https://www.mohrss.gov.cn/
   - 最高人民法院《关于审理劳动争议案件适用法律问题的解释（一）》（法释〔2020〕26号）

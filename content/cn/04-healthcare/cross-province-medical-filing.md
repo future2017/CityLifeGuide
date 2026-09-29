@@ -8,7 +8,7 @@ collected: 2026-09
 review_by: 2027-03
 sources:
   - 国家医保局、财政部《关于进一步做好基本医疗保险跨省异地就医直接结算工作的通知》（医保发〔2022〕22号）及政策解读
-    https://www.nhsa.gov.cn/art/2022/7/26/art_105_8630.html
+    https://www.nhsa.gov.cn/art/2022/7/26/art_104_8629.html
   - 《基本医疗保险跨省异地就医直接结算经办规程》（2023-01-01 起实施）
   - 国家医保局《跨省异地就医如何直接报销？》
     https://www.nhsa.gov.cn/art/2025/3/16/art_14_16010.html
