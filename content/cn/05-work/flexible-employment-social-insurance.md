@@ -16,6 +16,7 @@ sources:
   - 国务院《关于建立统一的城乡居民基本养老保险制度的意见》（国发〔2014〕8号）
     https://www.ndrc.gov.cn/xwdt/ztzl/xxczhjs/ghzc/201605/t20160505_971901.html
   - 人社部、财政部《城乡养老保险制度衔接暂行办法》（人社部发〔2014〕17号）
+    https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/gfxwj/shbx/201402/t20140228_125006.html
   - 广东省人社厅等《广东省灵活就业人员参加企业职工基本养老保险办法》（粤人社规〔2026〕14号）
     https://guangdong.chinatax.gov.cn/gdsw/ssfggds/2026-05/06/content_45505ebfc8f54089ae9bd6300fd49138.shtml
   - 上海市人社局、上海市税务局《关于灵活就业人员参加本市职工基本养老保险有关问题的补充通知》政策问答
