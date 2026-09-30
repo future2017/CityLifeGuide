@@ -24,7 +24,7 @@ sources:
   - 《个人求助网络服务平台管理办法》（民政部等五部门令第75号，2024-09-05 公布施行）及政策解读
     https://www.miit.gov.cn/zcfg/qtl/art/2025/art_2d6278e7dd114c979879c7bf667d42f3.html
   - 《公开募捐平台服务管理办法》（2026-05-01 施行）修订解读
-    https://policy.mofcom.gov.cn/claw/policyInfo.shtml?id=8962
+    https://www.cac.gov.cn/2026-04/30/c_1779276538655621.htm
   - 民政部《关于拟指定的个人求助网络服务平台名单的公示》（2024-12-16）
     https://mzj.sz.gov.cn/szmz/pc/zwgk/jcxxgk/zcqy/content/post_11912248.html
   - 上海市医疗保障局等《上海市城乡居民大病保险办法》（沪医保规〔2025〕10号）

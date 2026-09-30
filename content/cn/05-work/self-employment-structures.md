@@ -20,7 +20,7 @@ sources:
   - 《中华人民共和国增值税法》（2024-12-25 通过，2026-01-01 施行）第九条、第二十三条
     https://www.gov.cn/yaowen/liebiao/202412/content_6994557.htm
   - 财政部 税务总局《关于增值税法施行后增值税优惠政策衔接事项的公告》（财政部 税务总局公告 2026 年第 10 号）及国家税务总局配套解读
-    https://shanghai.chinatax.gov.cn/jstax/ztzl/yshj/ldjj/202602/t479407.html
+    https://fgk.chinatax.gov.cn/zcfgk/c102416/c5247434/content.html
   - 财政部 税务总局《关于进一步支持小微企业和个体工商户发展有关税费政策的公告》（财政部 税务总局公告 2023 年第 12 号）
     https://fgk.chinatax.gov.cn/zcfgk/c102416/c5210453/content.html
   - 国家税务总局《关于进一步落实支持个体工商户发展个人所得税优惠政策有关事项的公告》及官方解读
@@ -32,7 +32,7 @@ sources:
   - 国家税务总局广东省税务局《灵活就业人员参保缴费信息采集和险种核定》
     https://guangdong.chinatax.gov.cn/gdsw/gzswlhjyrysyxxgl/2026-05/14/content_8dac78be3a604391a74b90bdd4104042.shtml
   - 国家税务总局山西省税务局办税指南（引用《税收征收管理法》第十五条与《税务登记管理办法》）
-    https://shanxi.chinatax.gov.cn/web/bszn/sx-11400-1-47
+    https://fgk.chinatax.gov.cn/zcfgk/c100011/c5195247/content.html
   - 国家企业信用信息公示系统 https://www.gsxt.gov.cn
   - 12366 纳税缴费服务热线、12333 人力资源社会保障服务热线（拨打方式见文末）
   - 《市场主体登记管理条例》（国务院令第746号，2021-07-27 公布，2022-03-01 施行）

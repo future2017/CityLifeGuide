@@ -21,6 +21,7 @@ sources:
   - 人社部《关于职工全年月平均工作时间和工资折算问题的通知》（人社部发〔2025〕2号）
     https://www.gov.cn/zhengce/zhengceku/202501/content_6995777.htm
   - 人社部办公厅《关于做好〈国务院关于修改全国年节及纪念日放假办法的决定〉贯彻实施工作的通知》（人社厅函〔2025〕1号）
+    https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/ldgx_4234/ldyg/202501/t20250101_533695.html
   - 人社部劳动关系司答网民问：法定节假日加班的三倍工资是否另外支付
     https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/gfxwj/ldgx/201407/t20140717_136244.html
   - 苏州市人社局《法定节假日天数调整会影响工资折算吗？》
@@ -30,7 +31,7 @@ sources:
   - 人社部、最高人民法院《劳动人事争议典型案例（第二批）》（超时加班专题，人社部函〔2021〕90号）
     https://www.court.gov.cn/zixun/xiangqing/319151.html
   - 《劳动保障监察条例》（国务院令第423号）第二十五、二十六条
-    https://hrss.sz.gov.cn/ztfw/xzzfgs/sqgk/yjxx/content/post_2015469.html
+    https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_7383.htm
   - 《北京市工资支付规定》第十四、十五、十七、四十四条
     https://www.beijing.gov.cn/zhengce/zhengcefagui/201905/t20190522_56550.html
   - 北京市人社局《加班工资如何计算？》

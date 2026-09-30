@@ -21,7 +21,7 @@ sources:
   - 上海市人社局、上海市税务局《关于灵活就业人员参加本市职工基本养老保险有关问题的补充通知》政策问答
     https://rsj.sh.gov.cn/tshbx_17729/20240221/t0035_1421365.html
   - 河南省人社厅《关于进一步促进灵活就业人员参加企业职工基本养老保险有关问题的通知》政策解读
-    https://shbx.hrss.henan.gov.cn/hnsi/zhengce/jiedu/webinfo/2021/10/1635560810257547.htm
+    https://shbx.hrss.henan.gov.cn/hnsi/zhengce/fagui/webinfo/1635560810000476.htm
   - 天津市医保局、天津市税务局《关于进一步明确灵活就业人员参加我市职工基本医疗保险有关问题的通知》（津医保规字〔2026〕2号）
     https://tianjin.chinatax.gov.cn/11200000000/0100/010003/20260309091326118.shtml
   - 北京市政府《灵活就业缴费方式及缴费比例》

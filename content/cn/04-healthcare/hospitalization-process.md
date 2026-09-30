@@ -26,9 +26,9 @@ sources:
   - 国家医保局《医疗机构医疗保障定点管理暂行办法》（国家医保局令第 2 号）第二十三条
     https://www.nhsa.gov.cn/art/2021/1/8/art_173_10987.html
   - 国家医保局《关于全面排查并取消医保不合理限制的通知》答记者问（2022-12-23）
-    https://www.nhsa.gov.cn/art/2022/12/23/art_105_9915.html
+    https://www.nhsa.gov.cn/art/2022/12/23/art_109_9914.html
   - 国家医保局《关于进一步加强医疗保障定点医疗机构管理的通知》（2025-05-28，禁止以病组/病种费用限额为由要求患者院外购药购耗材）
-    http://www.nhsa.gov.cn/module/download/downfile.jsp?classid=0&filename=655ddb9acbb1449d857036bcd12f7f10.txt
+    https://www.nhsa.gov.cn/art/2025/6/24/art_104_16988.html
   - 国家卫生健康委、国家中医药管理局《医疗机构医用耗材管理办法（试行）》第三十五条
     http://www.natcm.gov.cn/bangongshi/zhengcewenjian/2019-06-21/10070.html
   - 辽宁省卫生健康委员会《医务人员应知应会法律知识——知情同意电子签名，要方便更要合法》
@@ -53,7 +53,7 @@ sources:
     http://www.ny.gov.cn/art/2026/9/14/art_228254_10364107.html
   - 重庆市医疗保障局《普通床位费医保支付标准》（政府指导价示例）
     https://ylbzj.cq.gov.cn/zwgk_535/zfxxgkml/zcwj_291934/gfxwj/202107/W020220719638085923020.pdf
-  - 岳阳市医疗保障局、岳阳市卫生健康委员会《关于调整规范公立医疗机构医疗服务价格的通知》
+  - 岳阳市医疗保障局、岳阳市卫生健康委员会《关于调整规范公立医疗机构医疗服务价格的通知》（岳医保发〔2020〕49 号，**自 2021-01-01 施行、有效期 5 年，已于 2025-12-31 届满**）
     https://www.yueyang.gov.cn/yyyb/57568/57570/content_1785755.html
   - 铜陵市医疗保障局《铜陵市医疗保险政策"明白纸"——城乡居民医疗保险》
     https://ybj.tl.gov.cn/tlsylbzj/ybzc/pc/content/content_1715656400674328576.html

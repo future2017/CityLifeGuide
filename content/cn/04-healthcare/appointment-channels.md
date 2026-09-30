@@ -14,11 +14,11 @@ sources:
   - 劳社部等《城镇职工基本医疗保险诊疗项目管理、医疗服务设施范围和支付标准意见》（劳社部发〔1999〕22号）
     https://rsj.sh.gov.cn/trlzyhshbzbgz_17256/20200617/t0035_1388359.html
   - 国家卫生健康委办公厅《关于进一步完善预约诊疗制度加强智慧医院建设的通知》（国卫办医函〔2020〕405号）
-    https://www.nhc.gov.cn/yzygj/c100068/202005/43b2d23ff48448ffae96700bc6eaccd7.shtml
+    https://www.gov.cn/zhengce/zhengceku/2020-05/22/content_5513897.htm
   - 国务院办公厅《关于加快建设分级诊疗体系的若干措施》（国办发〔2026〕11号）
     http://www.mwr.gov.cn/zw/zgzygwywj/202604/t20260409_2107425.html
   - 国家卫生健康委等四部门《关于加强医院法治建设的意见》及解读（2026-08-10）
-    https://www.nhc.gov.cn/fzs/c100047/202608/828580afe15343acb840537810bc820f.shtml
+    https://www.nhc.gov.cn/fzs/c100048/202608/676fff624cd34c0896e39911eaa9686c.shtml
   - 北京市人民政府「首都之窗」《全市各医院放号的时间、规则是什么样的？》
     https://www.beijing.gov.cn/hudong/bmwd/jsjbmyyt/2025jmwd/2025jmwd1/202510/t20251017_4229355.html
   - 广州市卫生健康委员会「广州健康通」及广州市统一预约挂号平台——五大预约渠道含 12320

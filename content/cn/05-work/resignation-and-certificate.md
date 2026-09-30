@@ -41,7 +41,7 @@ sources:
   - 《湖南省职工基本医疗保险实施办法》（湘政办发〔2022〕66 号）
     https://ybj.hunan.gov.cn/ybj/first113541/firstF/f2113606/202301/t20230105_29175342.html
   - 《劳动保障监察条例》（国务院令第 423 号）
-    https://flk.npc.gov.cn/detail?id=ff8080816f3cbb3c016f41114fec14e9&title=%E5%8A%B3%E5%8A%A8%E4%BF%9D%E9%9A%9C%E7%9B%91%E5%AF%9F%E6%9D%A1%E4%BE%8B
+    https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_7383.htm
   - 深圳市住房和建设局《在深圳购房申请公积金贷款，对申请人的公积金缴存时长有明确要求吗？》
     https://zjj.sz.gov.cn/csml/zfgjjtlzx/zmhd/cjwtjd_236/dkyw/content/post_12461114.html
   - 北京住房公积金管理中心《关于印发〈北京住房公积金缴存管理办法〉等文件的通知》
