@@ -10,11 +10,11 @@ sources:
   - 国务院办公厅《关于推进分级诊疗制度建设的指导意见》（国办发〔2015〕70号）
     https://www.gov.cn/zhengce/content/2015-09/11/content_10158.htm
   - 国务院办公厅《关于加快建设分级诊疗体系的若干措施》（国办发〔2026〕11号）
-    https://www.nhsa.gov.cn/art/2026/4/10/art_14_20158.html
+    https://www.gov.cn/zhengce/content/202604/content_7065030.htm
   - 国家卫生健康委办公厅、国家中医药局综合司、国家疾控局综合司《关于加强首诊和转诊服务 提升医疗服务连续性的通知》（国卫办医政发〔2024〕21号）
     https://www.gov.cn/zhengce/zhengceku/202411/content_6989637.htm
   - 国家医保局、财政部《关于进一步做好基本医疗保险跨省异地就医直接结算工作的通知》（医保发〔2022〕22号）
-    http://www.nhsa.gov.cn/art/2022/7/26/art_104_8629.html
+    https://www.nhsa.gov.cn/art/2022/7/26/art_104_8629.html
   - 国家医保局、国家发展改革委、国家卫生健康委《关于医保支持基层医疗卫生服务发展的指导意见》（医保发〔2026〕7号）及政策解读
     https://www.nhsa.gov.cn/art/2026/3/16/art_104_19931.html
     https://www.nhsa.gov.cn/art/2026/3/16/art_105_19933.html
@@ -53,7 +53,7 @@ sources:
   - 国家医保局《医保支持基层医疗卫生服务发展政策解读暨基层病种遴选情况介绍活动图文实录（上）》
     https://www.nhsa.gov.cn/art/2026/8/21/art_14_21867.html
   - 国家医保局《医保支持基层，河南有实招！》
-    http://www.nhsa.gov.cn/art/2026/5/24/art_14_20683.html
+    https://www.nhsa.gov.cn/art/2026/5/24/art_14_20683.html
   - 医保服务热线 12393、卫生健康热线 12320（拨打方式见文末）
 ---
 

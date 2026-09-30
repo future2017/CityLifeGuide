@@ -66,7 +66,7 @@ sources:
     http://ynswsjkw.yn.gov.cn/html/2022/xuanchuankejiao_1214/15812.html
   - 医保服务热线 12393、政务服务热线 12345（拨打方式见文末）
   - 《健康中国行动（2019—2030 年）》（健康中国行动推进委员会，2019）
-    https://www.nhc.gov.cn/guihuaxxs/c100133/201907/2a6ed52f1c264203b5351bdbbadd2da8.shtml
+    https://www.gov.cn/zhengce/content/2019-07/15/content_5409492.htm
   - 上海市人民政府门户《去年上海已在居民小区、重点公共场所增配 AED 逾八千台 超过以往所有存量总和》（2026-02-09，来源：解放日报）
     https://www.shanghai.gov.cn/nw4411/20260209/6827f391c5af4894838d3f37193441dc.html
   - 深圳市卫生健康委员会微资讯《「有爱市民 温暖深圳」！2024 年深圳 AED 助力救了 41 人！》（2025-01-10）
