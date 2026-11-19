@@ -4,8 +4,8 @@
   "scope": "content/cn v1（一线+新一线；12.3 二线及以下 v1 不写）",
   "totals": {
     "outline_entries": 88,
-    "done": 25,
-    "todo": 62,
+    "done": 31,
+    "todo": 56,
     "oversize": 7,
     "appendix": 4
   },
@@ -68,54 +68,54 @@
       "id": "1.4",
       "part": 1,
       "title": "出入境证件：护照、港澳台通行证、签注",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/01-identity/exit-entry-documents.md",
+      "status": "done",
+      "chars": 6979,
       "note": null
     },
     {
       "id": "1.5",
       "part": 1,
       "title": "无犯罪记录证明等常用证明的开具",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/01-identity/common-certificates.md",
+      "status": "done",
+      "chars": 6918,
       "note": null
     },
     {
       "id": "1.6",
       "part": 1,
       "title": "人事档案在哪、怎么调",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/01-identity/personnel-file.md",
+      "status": "done",
+      "chars": 6980,
       "note": null
     },
     {
       "id": "2.1",
       "part": 2,
       "title": "找房渠道对比与避坑",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/02-housing/house-hunting-channels.md",
+      "status": "done",
+      "chars": 6980,
       "note": null
     },
     {
       "id": "2.2",
       "part": 2,
       "title": "租赁合同必看条款",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/02-housing/lease-contract-clauses.md",
+      "status": "done",
+      "chars": 6975,
       "note": null
     },
     {
       "id": "2.3",
       "part": 2,
       "title": "押金退还与退租纠纷",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/02-housing/deposit-and-move-out-disputes.md",
+      "status": "done",
+      "chars": 6997,
       "note": null
     },
     {
