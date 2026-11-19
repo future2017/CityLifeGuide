@@ -4,8 +4,8 @@
   "scope": "content/cn v1（一线+新一线；12.3 二线及以下 v1 不写）",
   "totals": {
     "outline_entries": 88,
-    "done": 31,
-    "todo": 56,
+    "done": 37,
+    "todo": 50,
     "oversize": 7,
     "appendix": 4
   },
@@ -122,54 +122,54 @@
       "id": "2.4",
       "part": 2,
       "title": "房屋维修责任划分",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/02-housing/repair-responsibility.md",
+      "status": "done",
+      "chars": 6994,
       "note": null
     },
     {
       "id": "2.5",
       "part": 2,
       "title": "买房资格、限购与贷款资格",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/02-housing/home-purchase-eligibility.md",
+      "status": "done",
+      "chars": 6003,
       "note": null
     },
     {
       "id": "2.6",
       "part": 2,
       "title": "物业与业主权利",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/02-housing/property-management-and-owners-rights.md",
+      "status": "done",
+      "chars": 6800,
       "note": null
     },
     {
       "id": "2.7",
       "part": 2,
       "title": "租房与落户、子女入学的关系",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/02-housing/renting-hukou-and-schooling.md",
+      "status": "done",
+      "chars": 5944,
       "note": null
     },
     {
       "id": "3.1",
       "part": 3,
       "title": "社保开户、转移、断缴后果",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/03-money-social-security-tax/social-insurance-registration-and-transfer.md",
+      "status": "done",
+      "chars": 6757,
       "note": null
     },
     {
       "id": "3.2",
       "part": 3,
       "title": "医保参保与报销规则",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/03-money-social-security-tax/medical-insurance-enrollment-and-reimbursement.md",
+      "status": "done",
+      "chars": 6089,
       "note": null
     },
     {
