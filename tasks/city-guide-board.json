@@ -4,8 +4,8 @@
   "scope": "content/cn v1（一线+新一线；12.3 二线及以下 v1 不写）",
   "totals": {
     "outline_entries": 88,
-    "done": 43,
-    "todo": 44,
+    "done": 49,
+    "todo": 38,
     "oversize": 7,
     "appendix": 4
   },
@@ -401,55 +401,61 @@
       "id": "6.2",
       "part": 6,
       "title": "结婚登记：材料、流程、跨省通办",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/06-courtship-marriage/marriage-registration.md",
+      "status": "done",
+      "chars": 5259,
+      "note": null,
+      "updated": "2026-11-20"
     },
     {
       "id": "6.3",
       "part": 6,
       "title": "婚前财产协议与婚前财产公证",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/06-courtship-marriage/prenuptial-agreement-and-notarization.md",
+      "status": "done",
+      "chars": 7032,
+      "note": null,
+      "updated": "2026-11-20"
     },
     {
       "id": "6.4",
       "part": 6,
       "title": "共同生活期间的共同财产与共同债务界定",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/06-courtship-marriage/marital-property-and-debts.md",
+      "status": "done",
+      "chars": 7037,
+      "note": null,
+      "updated": "2026-11-20"
     },
     {
       "id": "6.5",
       "part": 6,
       "title": "协议离婚：流程、冷静期、登记材料",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/06-courtship-marriage/uncontested-divorce.md",
+      "status": "done",
+      "chars": 6470,
+      "note": null,
+      "updated": "2026-11-20"
     },
     {
       "id": "6.6",
       "part": 6,
       "title": "诉讼离婚：立案、管辖、证据准备",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/06-courtship-marriage/divorce-litigation.md",
+      "status": "done",
+      "chars": 7033,
+      "note": null,
+      "updated": "2026-11-20"
     },
     {
       "id": "6.7",
       "part": 6,
       "title": "离婚财产分割与房产处理",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/06-courtship-marriage/divorce-property-division-and-housing.md",
+      "status": "done",
+      "chars": 7039,
+      "note": null,
+      "updated": "2026-11-20"
     },
     {
       "id": "6.8",
