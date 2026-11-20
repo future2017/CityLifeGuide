@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "scope": "content/cn v1（一线+新一线；12.3 二线及以下 v1 不写）",
   "totals": {
     "outline_entries": 88,
-    "done": 37,
-    "todo": 50,
+    "done": 43,
+    "todo": 44,
     "oversize": 7,
     "appendix": 4
   },
@@ -176,45 +176,45 @@
       "id": "3.3",
       "part": 3,
       "title": "公积金：提取、贷款、异地互认",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/03-money-social-security-tax/housing-provident-fund.md",
+      "status": "done",
+      "chars": 6985,
       "note": null
     },
     {
       "id": "3.4",
       "part": 3,
       "title": "个人所得税与年度汇算",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/03-money-social-security-tax/individual-income-tax-annual-settlement.md",
+      "status": "done",
+      "chars": 5649,
       "note": null
     },
     {
       "id": "3.5",
       "part": 3,
       "title": "银行开户、征信报告、账户风控",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/03-money-social-security-tax/bank-account-and-credit-report.md",
+      "status": "done",
+      "chars": 6990,
       "note": null
     },
     {
       "id": "3.6",
       "part": 3,
       "title": "商业保险选购（重疾 / 医疗 / 意外）",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/03-money-social-security-tax/commercial-insurance.md",
+      "status": "done",
+      "chars": 6993,
       "note": null
     },
     {
       "id": "3.7",
       "part": 3,
       "title": "个人养老金与长期储蓄工具",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/03-money-social-security-tax/personal-pension.md",
+      "status": "done",
+      "chars": 6124,
       "note": null
     },
     {
@@ -392,9 +392,9 @@
       "id": "6.1",
       "part": 6,
       "title": "恋爱期间的财产与赠与（含彩礼纠纷的司法口径）",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/06-courtship-marriage/gifts-and-property-during-dating.md",
+      "status": "done",
+      "chars": 6998,
       "note": null
     },
     {
