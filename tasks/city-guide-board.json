@@ -4,8 +4,8 @@
   "scope": "content/cn v1（一线+新一线；12.3 二线及以下 v1 不写）",
   "totals": {
     "outline_entries": 88,
-    "done": 55,
-    "todo": 32,
+    "done": 61,
+    "todo": 26,
     "oversize": 7,
     "appendix": 4
   },
@@ -521,55 +521,61 @@
       "id": "7.4",
       "part": 7,
       "title": "学籍转移",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/07-education-parenting/student-status-transfer.md",
+      "status": "done",
+      "chars": 6762,
+      "note": null,
+      "updated": "2026-11-21"
     },
     {
       "id": "7.5",
       "part": 7,
       "title": "课外培训与预付费风险",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/07-education-parenting/tutoring-and-prepaid-risk.md",
+      "status": "done",
+      "chars": 6913,
+      "note": null,
+      "updated": "2026-11-21"
     },
     {
       "id": "7.6",
       "part": 7,
       "title": "生育登记与生育津贴",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/07-education-parenting/birth-registration-and-maternity-allowance.md",
+      "status": "done",
+      "chars": 6979,
+      "note": null,
+      "updated": "2026-11-21"
     },
     {
       "id": "7.7",
       "part": 7,
       "title": "儿童医保与疫苗",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/07-education-parenting/child-medical-insurance-and-vaccines.md",
+      "status": "done",
+      "chars": 6998,
+      "note": null,
+      "updated": "2026-11-21"
     },
     {
       "id": "8.1",
       "part": 8,
       "title": "地铁公交：卡、码、换乘、优惠规则",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/08-transport/metro-bus-fares-and-transfers.md",
+      "status": "done",
+      "chars": 6920,
+      "note": null,
+      "updated": "2026-11-21"
     },
     {
       "id": "8.2",
       "part": 8,
       "title": "打车与网约车",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/08-transport/ride-hailing.md",
+      "status": "done",
+      "chars": 6984,
+      "note": null,
+      "updated": "2026-11-21"
     },
     {
       "id": "8.3",
