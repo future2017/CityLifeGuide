@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "scope": "content/cn v1（一线+新一线；12.3 二线及以下 v1 不写）",
   "totals": {
     "outline_entries": 88,
-    "done": 49,
-    "todo": 38,
+    "done": 55,
+    "todo": 32,
     "oversize": 7,
     "appendix": 4
   },
@@ -461,55 +461,61 @@
       "id": "6.8",
       "part": 6,
       "title": "子女抚养权、抚养费与探望权",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/06-courtship-marriage/child-custody-and-visitation.md",
+      "status": "done",
+      "chars": 6886,
+      "note": null,
+      "updated": "2026-11-21"
     },
     {
       "id": "6.9",
       "part": 6,
       "title": "家庭暴力：报案、证据固定、人身安全保护令",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/06-courtship-marriage/domestic-violence-protection.md",
+      "status": "done",
+      "chars": 6997,
+      "note": null,
+      "updated": "2026-11-21"
     },
     {
       "id": "6.10",
       "part": 6,
       "title": "再婚、继子女与收养关系的法律要点",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/06-courtship-marriage/remarriage-stepchildren-adoption.md",
+      "status": "done",
+      "chars": 6988,
+      "note": null,
+      "updated": "2026-11-21"
     },
     {
       "id": "7.1",
       "part": 7,
       "title": "幼儿园选择与入园",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/07-education-parenting/preschool-enrollment.md",
+      "status": "done",
+      "chars": 6895,
+      "note": null,
+      "updated": "2026-11-21"
     },
     {
       "id": "7.2",
       "part": 7,
       "title": "义务教育入学政策与学区",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/07-education-parenting/compulsory-education-enrollment.md",
+      "status": "done",
+      "chars": 6936,
+      "note": null,
+      "updated": "2026-11-21"
     },
     {
       "id": "7.3",
       "part": 7,
       "title": "随迁子女入学",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/07-education-parenting/migrant-children-enrollment.md",
+      "status": "done",
+      "chars": 6999,
+      "note": null,
+      "updated": "2026-11-21"
     },
     {
       "id": "7.4",
