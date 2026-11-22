@@ -4,8 +4,8 @@
   "scope": "content/cn v1（一线+新一线；12.3 二线及以下 v1 不写）",
   "totals": {
     "outline_entries": 88,
-    "done": 67,
-    "todo": 20,
+    "done": 73,
+    "todo": 14,
     "oversize": 7,
     "appendix": 4
   },
@@ -641,54 +641,54 @@
       "id": "9.2",
       "part": 9,
       "title": "消费投诉渠道（12315 / 平台 / 消协）",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/09-consumer-rights/complaint-channels.md",
+      "status": "done",
+      "chars": 6987,
       "note": null
     },
     {
       "id": "9.3",
       "part": 9,
       "title": "预付费卡与机构跑路",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/09-consumer-rights/prepaid-cards-and-business-failure.md",
+      "status": "done",
+      "chars": 6989,
       "note": null
     },
     {
       "id": "9.4",
       "part": 9,
       "title": "装修、家政、维修的避坑要点",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/09-consumer-rights/renovation-housekeeping-repair.md",
+      "status": "done",
+      "chars": 6993,
       "note": null
     },
     {
       "id": "9.5",
       "part": 9,
       "title": "电信诈骗与个人信息保护",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/09-consumer-rights/telecom-fraud-and-personal-data.md",
+      "status": "done",
+      "chars": 6619,
       "note": null
     },
     {
       "id": "9.6",
       "part": 9,
       "title": "网络平台封号、申诉与数据导出",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/09-consumer-rights/platform-account-bans-and-data-export.md",
+      "status": "done",
+      "chars": 6975,
       "note": null
     },
     {
       "id": "10.1",
       "part": 10,
       "title": "快递、驿站与寄递规则",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
+      "file": "content/cn/10-daily-life/delivery-parcels-and-lockers.md",
+      "status": "done",
+      "chars": 6999,
       "note": null
     },
     {
