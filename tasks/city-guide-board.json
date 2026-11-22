@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "scope": "content/cn v1（一线+新一线；12.3 二线及以下 v1 不写）",
   "totals": {
     "outline_entries": 88,
-    "done": 61,
-    "todo": 26,
+    "done": 67,
+    "todo": 20,
     "oversize": 7,
     "appendix": 4
   },
@@ -581,55 +581,61 @@
       "id": "8.3",
       "part": 8,
       "title": "驾照：考取、换证、异地办理",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/08-transport/driver-license.md",
+      "status": "done",
+      "chars": 6748,
+      "note": null,
+      "updated": "2026-11-22"
     },
     {
       "id": "8.4",
       "part": 8,
       "title": "买车：牌照获取（摇号 / 竞价）、上牌、保险",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/08-transport/buying-a-car-plates-and-insurance.md",
+      "status": "done",
+      "chars": 6956,
+      "note": null,
+      "updated": "2026-11-22"
     },
     {
       "id": "8.5",
       "part": 8,
       "title": "长途出行：火车、高铁、飞机、长途客运",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/08-transport/long-distance-travel.md",
+      "status": "done",
+      "chars": 6865,
+      "note": null,
+      "updated": "2026-11-22"
     },
     {
       "id": "8.6",
       "part": 8,
       "title": "电动自行车与共享单车的合规使用",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/08-transport/e-bikes-and-shared-bikes.md",
+      "status": "done",
+      "chars": 6782,
+      "note": null,
+      "updated": "2026-11-22"
     },
     {
       "id": "8.7",
       "part": 8,
       "title": "交通违章与记分处理",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/08-transport/traffic-violations-and-points.md",
+      "status": "done",
+      "chars": 6472,
+      "note": null,
+      "updated": "2026-11-22"
     },
     {
       "id": "9.1",
       "part": 9,
       "title": "网购退货与「七天无理由」的边界",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/09-consumer-rights/online-shopping-returns.md",
+      "status": "done",
+      "chars": 6871,
+      "note": null,
+      "updated": "2026-11-22"
     },
     {
       "id": "9.2",
