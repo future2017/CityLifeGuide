@@ -4,8 +4,8 @@
   "scope": "content/cn v1（一线+新一线；12.3 二线及以下 v1 不写）",
   "totals": {
     "outline_entries": 88,
-    "done": 73,
-    "todo": 14,
+    "done": 79,
+    "todo": 8,
     "oversize": 7,
     "appendix": 4
   },
@@ -695,55 +695,61 @@
       "id": "10.2",
       "part": 10,
       "title": "外卖与食品安全",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/10-daily-life/food-delivery-and-safety.md",
+      "status": "done",
+      "chars": 6790,
+      "note": null,
+      "updated": "2026-11-23"
     },
     {
       "id": "10.3",
       "part": 10,
       "title": "水电气网开通、过户、报修",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/10-daily-life/utilities-setup-and-repair.md",
+      "status": "done",
+      "chars": 6794,
+      "note": null,
+      "updated": "2026-11-23"
     },
     {
       "id": "10.4",
       "part": 10,
       "title": "宠物：登记、免疫、寄养、出行",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/10-daily-life/pets-registration-and-travel.md",
+      "status": "done",
+      "chars": 6870,
+      "note": null,
+      "updated": "2026-11-23"
     },
     {
       "id": "10.5",
       "part": 10,
       "title": "垃圾分类与社区规约",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/10-daily-life/waste-sorting-and-community-rules.md",
+      "status": "done",
+      "chars": 6860,
+      "note": null,
+      "updated": "2026-11-23"
     },
     {
       "id": "10.6",
       "part": 10,
       "title": "邻里纠纷与噪音投诉",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/10-daily-life/neighbor-disputes-and-noise.md",
+      "status": "done",
+      "chars": 6381,
+      "note": null,
+      "updated": "2026-11-23"
     },
     {
       "id": "11.1",
       "part": 11,
       "title": "报警、急救、消防：号码与话术",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/11-emergency-legal/emergency-numbers-and-scripts.md",
+      "status": "done",
+      "chars": 6749,
+      "note": null,
+      "updated": "2026-11-23"
     },
     {
       "id": "11.2",
