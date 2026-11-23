@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "scope": "content/cn v1（一线+新一线；12.3 二线及以下 v1 不写）",
   "totals": {
     "outline_entries": 88,
-    "done": 79,
-    "todo": 8,
+    "done": 84,
+    "todo": 3,
     "oversize": 7,
     "appendix": 4
   },
@@ -755,46 +755,51 @@
       "id": "11.2",
       "part": 11,
       "title": "法律援助与律师咨询",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/11-emergency-legal/legal-aid-and-lawyer.md",
+      "status": "done",
+      "chars": 6780,
+      "note": null,
+      "updated": "2026-11-23"
     },
     {
       "id": "11.3",
       "part": 11,
       "title": "交通事故处理流程",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/11-emergency-legal/traffic-accident-handling.md",
+      "status": "done",
+      "chars": 6796,
+      "note": null,
+      "updated": "2026-11-23"
     },
     {
       "id": "11.4",
       "part": 11,
       "title": "极端天气与自然灾害应对",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/11-emergency-legal/extreme-weather-and-disaster.md",
+      "status": "done",
+      "chars": 6758,
+      "note": null,
+      "updated": "2026-11-23"
     },
     {
       "id": "11.5",
       "part": 11,
       "title": "公证与文书认证",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/11-emergency-legal/notarization-and-authentication.md",
+      "status": "done",
+      "chars": 6775,
+      "note": null,
+      "updated": "2026-11-23"
     },
     {
       "id": "11.6",
       "part": 11,
       "title": "诉讼基础常识",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/11-emergency-legal/litigation-basics.md",
+      "status": "done",
+      "chars": 6791,
+      "note": null,
+      "updated": "2026-11-23"
     },
     {
       "id": "12.1",
