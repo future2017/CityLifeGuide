@@ -4,8 +4,8 @@
   "scope": "content/cn v1（一线+新一线；12.3 二线及以下 v1 不写）",
   "totals": {
     "outline_entries": 88,
-    "done": 86,
-    "todo": 1,
+    "done": 87,
+    "todo": 0,
     "oversize": 7,
     "appendix": 4
   },
@@ -834,10 +834,11 @@
       "id": "12.4",
       "part": 12,
       "title": "跨省差异对照表",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/12-city-differences/cross-province-comparison.md",
+      "status": "done",
+      "chars": 6840,
+      "note": "正文 6840 汉字；24 条 A 级来源；各地差异表 13 行",
+      "updated": "2026-11-24"
     }
   ],
   "oversize": [
