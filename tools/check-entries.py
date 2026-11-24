@@ -69,7 +69,12 @@ def check_file(path):
 
 def main():
     root = sys.argv[1] if len(sys.argv) > 1 else "content/cn"
-    files = sorted(glob.glob(os.path.join(root, "0*", "*.md")))
+    # 既支持传目录（扫全部 NN-* 子目录），也支持传单个文件。
+    if os.path.isfile(root):
+        files = [root]
+        root = os.path.dirname(root) or "."
+    else:
+        files = sorted(glob.glob(os.path.join(root, "*", "*.md")))
     if not files:
         print(f"未在 {root} 下找到条目文件")
         return 1

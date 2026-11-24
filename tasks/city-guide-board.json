@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "scope": "content/cn v1（一线+新一线；12.3 二线及以下 v1 不写）",
   "totals": {
     "outline_entries": 88,
-    "done": 84,
-    "todo": 3,
+    "done": 86,
+    "todo": 1,
     "oversize": 7,
     "appendix": 4
   },
@@ -805,19 +805,21 @@
       "id": "12.1",
       "part": 12,
       "title": "一线城市（北京、上海、广州、深圳）特殊政策",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/12-city-differences/first-tier-cities-special-policies.md",
+      "status": "done",
+      "chars": 6990,
+      "note": null,
+      "updated": "2026-11-24"
     },
     {
       "id": "12.2",
       "part": 12,
       "title": "新一线城市（15 城）特殊政策",
-      "file": null,
-      "status": "todo",
-      "chars": 0,
-      "note": null
+      "file": "content/cn/12-city-differences/new-first-tier-cities-special-policies.md",
+      "status": "done",
+      "chars": 6398,
+      "note": null,
+      "updated": "2026-11-24"
     },
     {
       "id": "12.3",
