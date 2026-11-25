@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "scope": "content/cn v1（一线+新一线；12.3 二线及以下 v1 不写）",
   "totals": {
-    "outline_entries": 88,
-    "done": 87,
+    "outline_entries": 90,
+    "done": 89,
     "todo": 0,
-    "oversize": 7,
+    "oversize": 5,
     "appendix": 4
   },
   "entries": [
@@ -355,38 +355,62 @@
     {
       "id": "5.4",
       "part": 5,
-      "title": "离职流程与离职证明",
-      "file": "content/cn/05-work/resignation-and-certificate.md",
+      "title": "离职：怎么提、谁给钱",
+      "file": "content/cn/05-work/resignation-and-compensation.md",
       "status": "done",
-      "chars": 9160,
-      "note": null
+      "chars": 5295,
+      "note": "2026-11-25 拆分自原 5.4，只保留离职方式与补偿计算",
+      "updated": "2026-11-25"
     },
     {
       "id": "5.5",
+      "part": 5,
+      "title": "离职证明、档案与社保公积金交接",
+      "file": "content/cn/05-work/exit-certificate-and-handover.md",
+      "status": "done",
+      "chars": 6998,
+      "note": "2026-11-25 新增，拆自原 5.4",
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "5.6",
       "part": 5,
       "title": "劳动仲裁：流程、时效、证据准备",
       "file": "content/cn/05-work/labor-arbitration.md",
       "status": "done",
       "chars": 8378,
-      "note": null
+      "note": "原 5.5，拆分后顺延",
+      "updated": "2026-11-25"
     },
     {
-      "id": "5.6",
+      "id": "5.7",
       "part": 5,
       "title": "灵活就业与社保自缴",
       "file": "content/cn/05-work/flexible-employment-social-insurance.md",
       "status": "done",
       "chars": 7395,
-      "note": null
+      "note": "原 5.6，拆分后顺延",
+      "updated": "2026-11-25"
     },
     {
-      "id": "5.7",
+      "id": "5.8",
       "part": 5,
       "title": "个体户 / 公司 / 自由职业者的选择",
       "file": "content/cn/05-work/self-employment-structures.md",
       "status": "done",
-      "chars": 10615,
-      "note": null
+      "chars": 6105,
+      "note": "2026-11-25 拆分自原 5.7，只保留身份选择与税负对比",
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "5.9",
+      "part": 5,
+      "title": "注册、报税与注销：一个主体的开办到退出",
+      "file": "content/cn/05-work/business-registration-and-deregistration.md",
+      "status": "done",
+      "chars": 6998,
+      "note": "2026-11-25 新增，拆自原 5.7",
+      "updated": "2026-11-25"
     },
     {
       "id": "6.1",
@@ -842,18 +866,6 @@
     }
   ],
   "oversize": [
-    {
-      "file": "content/cn/05-work/self-employment-structures.md",
-      "chars": 10615,
-      "limit": 8000,
-      "action": "split"
-    },
-    {
-      "file": "content/cn/05-work/resignation-and-certificate.md",
-      "chars": 9160,
-      "limit": 8000,
-      "action": "split"
-    },
     {
       "file": "content/cn/04-healthcare/catastrophic-insurance-and-medical-assistance.md",
       "chars": 8493,

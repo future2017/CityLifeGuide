@@ -191,10 +191,14 @@ content/cn/
 - 5.1 劳动合同必看条款 ← ✅ [`labor-contract-key-clauses.md`](05-work/labor-contract-key-clauses.md)
 - 5.2 试用期、竞业限制、违约金的合法边界 ← ✅ [`probation-noncompete-penalty.md`](05-work/probation-noncompete-penalty.md)
 - 5.3 加班费、调休与工时制度 ← ✅ [`overtime-and-working-hours.md`](05-work/overtime-and-working-hours.md)
-- 5.4 离职流程与离职证明 ← ✅ [`resignation-and-certificate.md`](05-work/resignation-and-certificate.md)
-- 5.5 劳动仲裁：流程、时效、证据准备 ← ✅ [`labor-arbitration.md`](05-work/labor-arbitration.md)
-- 5.6 灵活就业与社保自缴 ← ✅ [`flexible-employment-social-insurance.md`](05-work/flexible-employment-social-insurance.md)
-- 5.7 个体户 / 公司 / 自由职业者的选择 ← ✅ [`self-employment-structures.md`](05-work/self-employment-structures.md)
+- 5.4 离职：怎么提、谁给钱 ← ✅ [`resignation-and-compensation.md`](05-work/resignation-and-compensation.md)
+- 5.5 离职证明、档案与社保公积金交接 ← ✅ [`exit-certificate-and-handover.md`](05-work/exit-certificate-and-handover.md)
+- 5.6 劳动仲裁：流程、时效、证据准备 ← ✅ [`labor-arbitration.md`](05-work/labor-arbitration.md)
+- 5.7 灵活就业与社保自缴 ← ✅ [`flexible-employment-social-insurance.md`](05-work/flexible-employment-social-insurance.md)
+- 5.8 个体户 / 公司 / 自由职业者的选择 ← ✅ [`self-employment-structures.md`](05-work/self-employment-structures.md)
+- 5.9 注册、报税与注销：一个主体的开办到退出 ← ✅ [`business-registration-and-deregistration.md`](05-work/business-registration-and-deregistration.md)
+
+> **拆分记录（2026-11-25）**：原 5.4 超过 8,000 汉字硬上限，按「一个条目只回答一个问题」拆为 5.4（怎么提、谁给钱）与 5.5（证明、档案、社保公积金交接），原 5.5–5.7 顺延为 5.6–5.8；原 5.7 超过上限，拆为 5.8（身份怎么选）与 5.9（开办到退出）。拆分不删任何已核实内容。
 
 ### 第 6 部分 · 恋爱与婚姻 `06-courtship-marriage`
 
