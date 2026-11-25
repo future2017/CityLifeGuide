@@ -3,10 +3,10 @@
   "updated": "2026-11-25",
   "scope": "content/cn v1（一线+新一线；12.3 二线及以下 v1 不写）",
   "totals": {
-    "outline_entries": 90,
-    "done": 89,
+    "outline_entries": 92,
+    "done": 91,
     "todo": 0,
-    "oversize": 5,
+    "oversize": 3,
     "appendix": 4
   },
   "entries": [
@@ -301,29 +301,52 @@
     {
       "id": "4.10",
       "part": 4,
-      "title": "大病保险与医疗救助",
-      "file": "content/cn/04-healthcare/catastrophic-insurance-and-medical-assistance.md",
+      "title": "大病保险：怎么报、报多少",
+      "file": "content/cn/04-healthcare/catastrophic-insurance.md",
       "status": "done",
-      "chars": 8493,
-      "note": null
+      "chars": 6442,
+      "note": "2026-11-25 拆分自原 4.10，只保留大病保险",
+      "updated": "2026-11-25"
     },
     {
       "id": "4.11",
       "part": 4,
-      "title": "慈善资源与个人众筹",
-      "file": "content/cn/04-healthcare/charity-and-crowdfunding.md",
+      "title": "医疗救助：谁能申请、怎么申请",
+      "file": "content/cn/04-healthcare/medical-assistance.md",
       "status": "done",
-      "chars": 7272,
-      "note": null
+      "chars": 6840,
+      "note": "2026-11-25 新增，拆自原 4.10",
+      "updated": "2026-11-25"
     },
     {
       "id": "4.12",
       "part": 4,
-      "title": "心理健康服务获取",
+      "title": "慈善资源与个人众筹",
+      "file": "content/cn/04-healthcare/charity-and-crowdfunding.md",
+      "status": "done",
+      "chars": 7195,
+      "note": "原 4.11，拆分后顺延",
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "4.13",
+      "part": 4,
+      "title": "心理健康服务获取：找谁、多少钱",
       "file": "content/cn/04-healthcare/mental-health-services.md",
       "status": "done",
-      "chars": 8302,
-      "note": null
+      "chars": 6988,
+      "note": "2026-11-25 拆分自原 4.12，只保留入口、资质与费用",
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "4.14",
+      "part": 4,
+      "title": "精神科就诊、用药与危机干预",
+      "file": "content/cn/04-healthcare/mental-health-crisis.md",
+      "status": "done",
+      "chars": 6842,
+      "note": "2026-11-25 新增，拆自原 4.12",
+      "updated": "2026-11-25"
     },
     {
       "id": "5.1",
@@ -867,12 +890,6 @@
   ],
   "oversize": [
     {
-      "file": "content/cn/04-healthcare/catastrophic-insurance-and-medical-assistance.md",
-      "chars": 8493,
-      "limit": 8000,
-      "action": "split"
-    },
-    {
       "file": "content/cn/04-healthcare/medical-insurance-settlement.md",
       "chars": 8385,
       "limit": 8000,
@@ -881,12 +898,6 @@
     {
       "file": "content/cn/05-work/labor-arbitration.md",
       "chars": 8378,
-      "limit": 8000,
-      "action": "split"
-    },
-    {
-      "file": "content/cn/04-healthcare/mental-health-services.md",
-      "chars": 8302,
       "limit": 8000,
       "action": "split"
     },
