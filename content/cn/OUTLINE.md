@@ -173,13 +173,21 @@ content/cn/
 - 4.6 救护车与 120：什么时候该叫、怎么叫
 - 4.7 急诊室：分诊、费用与维权
 - 4.8 现场急救：心肺复苏、AED 与气道梗阻
-- 4.9 住院流程：从开住院证到出院
-- 4.10 住院费用与结算
-- 4.11 大病保险：怎么报、报多少 ← ✅ [`catastrophic-insurance.md`](04-healthcare/catastrophic-insurance.md)
-- 4.12 医疗救助：谁能申请、怎么申请 ← ✅ [`medical-assistance.md`](04-healthcare/medical-assistance.md)
-- 4.13 慈善资源与个人众筹 ← ✅ [`charity-and-crowdfunding.md`](04-healthcare/charity-and-crowdfunding.md)
-- 4.14 心理健康服务获取：找谁、多少钱 ← ✅ [`mental-health-services.md`](04-healthcare/mental-health-services.md)
-- 4.15 精神科就诊、用药与危机干预 ← ✅ [`mental-health-crisis.md`](04-healthcare/mental-health-crisis.md)
+- 4.9 住院流程：从开住院证到入院登记 ← ✅ [`hospitalization-process.md`](04-healthcare/hospitalization-process.md)
+- 4.10 住院期间与出院：每天盯什么、怎么走 ← ✅ [`hospitalization-stay-and-discharge.md`](04-healthcare/hospitalization-stay-and-discharge.md)
+- 4.11 住院费用与结算 ← ✅ [`hospitalization-costs-and-settlement.md`](04-healthcare/hospitalization-costs-and-settlement.md)
+- 4.12 大病保险：怎么报、报多少 ← ✅ [`catastrophic-insurance.md`](04-healthcare/catastrophic-insurance.md)
+- 4.13 医疗救助：谁能申请、怎么申请 ← ✅ [`medical-assistance.md`](04-healthcare/medical-assistance.md)
+- 4.14 慈善资源与个人众筹 ← ✅ [`charity-and-crowdfunding.md`](04-healthcare/charity-and-crowdfunding.md)
+- 4.15 心理健康服务获取：找谁、多少钱 ← ✅ [`mental-health-services.md`](04-healthcare/mental-health-services.md)
+- 4.16 精神科就诊、用药与危机干预 ← ✅ [`mental-health-crisis.md`](04-healthcare/mental-health-crisis.md)
+
+> **拆分记录（2026-11-26）**：原 4.9「住院流程：从开住院证到出院」8,093 汉字超过 8,000 硬上限，
+> 按「一个条目只回答一个问题」拆为 4.9（住院证、排床、材料、预交金、医保登记）与 4.10（住院期间
+> 每日清单与自费签字、查房提问、出院结算材料、转院与非医嘱离院）。原 4.10–4.15 顺延为 4.11–4.16。
+> 拆分不删任何已核实内容；同时把「门诊预交金全面停收」修正为该通知的例外口径（急诊、门诊手术、
+> 老年人等确有需求者，患者自愿前提下可保留并报备），并把深圳已废止的 2008 年就医管理办法替换为
+> 现行的深医保规〔2023〕7号。
 
 > **拆分记录（2026-11-26）**：原 4.3「医保结算流程与自费部分」8,343 汉字超过 8,000 硬上限，
 > 按「一个条目只回答一个问题」拆为 4.3（三大目录、起付线与报销比例、门诊与住院怎么结算、
@@ -333,7 +341,7 @@ content/cn/
 
 - 我刚到这座城市，第一步做什么
 - 我生病了 / 家人住院了
-- **我要去外地看病，医保怎么办** → 4.4 异地就医备案
+- **我要去外地看病，医保怎么办** → 4.5 异地就医备案
 - 我被公司辞退了
 - 房东不退押金
 - 我买的东西退货被拒
@@ -384,4 +392,5 @@ content/cn/
 | 2026-09-30 | 第 3 部分与第 4、5 部分**按主题切分** | 3.x 只写参保/缴费/账户；就医结算归 4.x，劳动权益归 5.x。避免同一政策两处写出互相矛盾的口径 |
 | 2026-09-30 | 第三章之后插入第 6 部分前，**先补齐 0–3 部分** | 前置章节是后文的地基（身份、住房、社保三项被多章反复引用） |
 | 2026-11-25 | Part 4 的 4.10、4.12 超 8,000 汉字硬上限，**各拆为两条并顺延编号**（4.10/4.11、4.13/4.14，原 4.11 慈善顺延为 4.12） | 一个条目只回答一个问题；拆分不删任何已核实内容，超出幅度小也要拆，压缩会丢来源 |
+| 2026-11-26 | 原 4.9「住院流程」超上限，**拆为 4.9（入院）与 4.10（住院期间与出院）**，原 4.10–4.15 顺延为 4.11–4.16 | 入院手续与住院期间的每日动作是两类问题，读者查的时间点也不同；拆分不删任何已核实内容 |
 

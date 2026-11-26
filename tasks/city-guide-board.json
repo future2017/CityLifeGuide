@@ -3,10 +3,10 @@
   "updated": "2026-11-26",
   "scope": "content/cn v1（一线+新一线；12.3 二线及以下 v1 不写）",
   "totals": {
-    "outline_entries": 94,
-    "done": 93,
+    "outline_entries": 95,
+    "done": 94,
     "todo": 0,
-    "oversize": 1,
+    "oversize": 0,
     "appendix": 4
   },
   "entries": [
@@ -294,14 +294,25 @@
     {
       "id": "4.9",
       "part": 4,
-      "title": "住院流程：从开住院证到出院",
+      "title": "住院流程：从开住院证到入院登记",
       "file": "content/cn/04-healthcare/hospitalization-process.md",
       "status": "done",
-      "chars": 8092,
-      "note": null
+      "chars": 4763,
+      "note": "2026-11-26 拆分自原 4.9，只保留住院证、排床、材料、预交金与医保登记",
+      "updated": "2026-11-26"
     },
     {
       "id": "4.10",
+      "part": 4,
+      "title": "住院期间与出院：每天盯什么、怎么走",
+      "file": "content/cn/04-healthcare/hospitalization-stay-and-discharge.md",
+      "status": "done",
+      "chars": 6197,
+      "note": "2026-11-26 新增，拆自原 4.9：一日清单、自费签字、查房提问、出院材料、转院与非医嘱离院",
+      "updated": "2026-11-26"
+    },
+    {
+      "id": "4.11",
       "part": 4,
       "title": "住院费用与结算",
       "file": "content/cn/04-healthcare/hospitalization-costs-and-settlement.md",
@@ -310,7 +321,7 @@
       "note": null
     },
     {
-      "id": "4.11",
+      "id": "4.12",
       "part": 4,
       "title": "大病保险：怎么报、报多少",
       "file": "content/cn/04-healthcare/catastrophic-insurance.md",
@@ -320,7 +331,7 @@
       "updated": "2026-11-25"
     },
     {
-      "id": "4.12",
+      "id": "4.13",
       "part": 4,
       "title": "医疗救助：谁能申请、怎么申请",
       "file": "content/cn/04-healthcare/medical-assistance.md",
@@ -330,7 +341,7 @@
       "updated": "2026-11-25"
     },
     {
-      "id": "4.13",
+      "id": "4.14",
       "part": 4,
       "title": "慈善资源与个人众筹",
       "file": "content/cn/04-healthcare/charity-and-crowdfunding.md",
@@ -340,7 +351,7 @@
       "updated": "2026-11-25"
     },
     {
-      "id": "4.14",
+      "id": "4.15",
       "part": 4,
       "title": "心理健康服务获取：找谁、多少钱",
       "file": "content/cn/04-healthcare/mental-health-services.md",
@@ -350,7 +361,7 @@
       "updated": "2026-11-25"
     },
     {
-      "id": "4.15",
+      "id": "4.16",
       "part": 4,
       "title": "精神科就诊、用药与危机干预",
       "file": "content/cn/04-healthcare/mental-health-crisis.md",
@@ -909,14 +920,7 @@
       "updated": "2026-11-24"
     }
   ],
-  "oversize": [
-    {
-      "file": "content/cn/04-healthcare/hospitalization-process.md",
-      "chars": 8092,
-      "limit": 8000,
-      "action": "split"
-    }
-  ],
+  "oversize": [],
   "appendix": [
     {
       "id": "A",
