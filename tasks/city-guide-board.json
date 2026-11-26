@@ -4,9 +4,9 @@
   "scope": "content/cn v1（一线+新一线；12.3 二线及以下 v1 不写）",
   "totals": {
     "outline_entries": 94,
-    "done": 91,
-    "todo": 2,
-    "oversize": 3,
+    "done": 93,
+    "todo": 0,
+    "oversize": 1,
     "appendix": 4
   },
   "entries": [
@@ -241,17 +241,18 @@
       "title": "医保结算流程与自费部分",
       "file": "content/cn/04-healthcare/medical-insurance-settlement.md",
       "status": "done",
-      "chars": 8385,
-      "note": null
+      "chars": 6569,
+      "note": "拆条后只讲结算：三大目录、起付线与比例、门诊与住院结算、自付与自费；慢特病与个人账户移入 4.4",
+      "updated": "2026-11-26"
     },
     {
       "id": "4.4",
       "part": 4,
       "title": "门诊慢特病与个人账户共济",
       "file": "content/cn/04-healthcare/chronic-disease-and-medical-account.md",
-      "status": "todo",
-      "chars": 0,
-      "note": null,
+      "status": "done",
+      "chars": 6776,
+      "note": "新增：门诊慢特病认定与待遇、个人账户与家庭共济；跨省直接结算病种按医保办发〔2024〕19号写 10 种",
       "updated": "2026-11-26"
     },
     {
@@ -411,18 +412,18 @@
       "title": "劳动仲裁：流程、时效、证据准备",
       "file": "content/cn/05-work/labor-arbitration.md",
       "status": "done",
-      "chars": 8378,
-      "note": "原 5.5，拆分后顺延",
-      "updated": "2026-11-25"
+      "chars": 6498,
+      "note": "拆条后只讲仲裁程序：前置、时效、管辖、证据、流程、费用；裁决后救济移入 5.7",
+      "updated": "2026-11-26"
     },
     {
       "id": "5.7",
       "part": 5,
       "title": "不服裁决：一裁终局、起诉与强制执行",
       "file": "content/cn/05-work/after-arbitration-award.md",
-      "status": "todo",
-      "chars": 0,
-      "note": null,
+      "status": "done",
+      "chars": 6767,
+      "note": "新增：一裁终局认定、15/30 日救济、单位撤销六情形、起诉与强制执行",
       "updated": "2026-11-26"
     },
     {
@@ -909,18 +910,6 @@
     }
   ],
   "oversize": [
-    {
-      "file": "content/cn/04-healthcare/medical-insurance-settlement.md",
-      "chars": 8385,
-      "limit": 8000,
-      "action": "split"
-    },
-    {
-      "file": "content/cn/05-work/labor-arbitration.md",
-      "chars": 8378,
-      "limit": 8000,
-      "action": "split"
-    },
     {
       "file": "content/cn/04-healthcare/hospitalization-process.md",
       "chars": 8092,
