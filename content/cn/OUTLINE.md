@@ -167,18 +167,24 @@ content/cn/
 
 - 4.1 分级诊疗：什么病去哪一级医院
 - 4.2 挂号渠道与专家号获取
-- 4.3 医保结算流程与自费部分
-- **4.4 异地就医备案** ← ✅ **样章** [`cross-province-medical-filing.md`](04-healthcare/cross-province-medical-filing.md)
-- 4.5 救护车与 120：什么时候该叫、怎么叫
-- 4.6 急诊室：分诊、费用与维权
-- 4.7 现场急救：心肺复苏、AED 与气道梗阻
-- 4.8 住院流程：从开住院证到出院
-- 4.9 住院费用与结算
-- 4.10 大病保险：怎么报、报多少 ← ✅ [`catastrophic-insurance.md`](04-healthcare/catastrophic-insurance.md)
-- 4.11 医疗救助：谁能申请、怎么申请 ← ✅ [`medical-assistance.md`](04-healthcare/medical-assistance.md)
-- 4.12 慈善资源与个人众筹 ← ✅ [`charity-and-crowdfunding.md`](04-healthcare/charity-and-crowdfunding.md)
-- 4.13 心理健康服务获取：找谁、多少钱 ← ✅ [`mental-health-services.md`](04-healthcare/mental-health-services.md)
-- 4.14 精神科就诊、用药与危机干预 ← ✅ [`mental-health-crisis.md`](04-healthcare/mental-health-crisis.md)
+- 4.3 医保结算流程与自费部分 ← ✅ [`medical-insurance-settlement.md`](04-healthcare/medical-insurance-settlement.md)
+- 4.4 门诊慢特病与个人账户共济 ← ✅ [`chronic-disease-and-medical-account.md`](04-healthcare/chronic-disease-and-medical-account.md)
+- **4.5 异地就医备案** ← ✅ **样章** [`cross-province-medical-filing.md`](04-healthcare/cross-province-medical-filing.md)
+- 4.6 救护车与 120：什么时候该叫、怎么叫
+- 4.7 急诊室：分诊、费用与维权
+- 4.8 现场急救：心肺复苏、AED 与气道梗阻
+- 4.9 住院流程：从开住院证到出院
+- 4.10 住院费用与结算
+- 4.11 大病保险：怎么报、报多少 ← ✅ [`catastrophic-insurance.md`](04-healthcare/catastrophic-insurance.md)
+- 4.12 医疗救助：谁能申请、怎么申请 ← ✅ [`medical-assistance.md`](04-healthcare/medical-assistance.md)
+- 4.13 慈善资源与个人众筹 ← ✅ [`charity-and-crowdfunding.md`](04-healthcare/charity-and-crowdfunding.md)
+- 4.14 心理健康服务获取：找谁、多少钱 ← ✅ [`mental-health-services.md`](04-healthcare/mental-health-services.md)
+- 4.15 精神科就诊、用药与危机干预 ← ✅ [`mental-health-crisis.md`](04-healthcare/mental-health-crisis.md)
+
+> **拆分记录（2026-11-26）**：原 4.3「医保结算流程与自费部分」8,343 汉字超过 8,000 硬上限，
+> 按「一个条目只回答一个问题」拆为 4.3（三大目录、起付线与报销比例、门诊与住院怎么结算、
+> 自付与自费的区别）与 4.4（门诊慢特病待遇认定、个人账户与家庭共济）。原 4.4–4.14 顺延为
+> 4.5–4.15（异地就医备案样章随之为 4.5）。拆分不删任何已核实内容。
 
 > **拆分记录（2026-11-25）**：原 4.10「大病保险与医疗救助」8,493 汉字、原 4.12「心理健康服务获取」
 > 8,302 汉字，均超过 8,000 汉字硬上限，按「一个条目只回答一个问题」各拆为两条：4.10 只讲大病保险、
@@ -201,9 +207,14 @@ content/cn/
 - 5.4 离职：怎么提、谁给钱 ← ✅ [`resignation-and-compensation.md`](05-work/resignation-and-compensation.md)
 - 5.5 离职证明、档案与社保公积金交接 ← ✅ [`exit-certificate-and-handover.md`](05-work/exit-certificate-and-handover.md)
 - 5.6 劳动仲裁：流程、时效、证据准备 ← ✅ [`labor-arbitration.md`](05-work/labor-arbitration.md)
-- 5.7 灵活就业与社保自缴 ← ✅ [`flexible-employment-social-insurance.md`](05-work/flexible-employment-social-insurance.md)
-- 5.8 个体户 / 公司 / 自由职业者的选择 ← ✅ [`self-employment-structures.md`](05-work/self-employment-structures.md)
-- 5.9 注册、报税与注销：一个主体的开办到退出 ← ✅ [`business-registration-and-deregistration.md`](05-work/business-registration-and-deregistration.md)
+- 5.7 不服裁决：一裁终局、起诉与强制执行 ← ✅ [`after-arbitration-award.md`](05-work/after-arbitration-award.md)
+- 5.8 灵活就业与社保自缴 ← ✅ [`flexible-employment-social-insurance.md`](05-work/flexible-employment-social-insurance.md)
+- 5.9 个体户 / 公司 / 自由职业者的选择 ← ✅ [`self-employment-structures.md`](05-work/self-employment-structures.md)
+- 5.10 注册、报税与注销：一个主体的开办到退出 ← ✅ [`business-registration-and-deregistration.md`](05-work/business-registration-and-deregistration.md)
+
+> **拆分记录（2026-11-26）**：原 5.6「劳动仲裁：流程、时效、证据准备」8,332 汉字超过 8,000 硬上限，
+> 拆为 5.6（仲裁前置、时效、管辖、证据、流程与费用）与 5.7（一裁终局的范围、起诉与撤销、
+> 强制执行）。原 5.7–5.9 顺延为 5.8–5.10。拆分不删任何已核实内容。
 
 > **拆分记录（2026-11-25）**：原 5.4 超过 8,000 汉字硬上限，按「一个条目只回答一个问题」拆为 5.4（怎么提、谁给钱）与 5.5（证明、档案、社保公积金交接），原 5.5–5.7 顺延为 5.6–5.8；原 5.7 超过上限，拆为 5.8（身份怎么选）与 5.9（开办到退出）。拆分不删任何已核实内容。
 

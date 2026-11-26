@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "scope": "content/cn v1（一线+新一线；12.3 二线及以下 v1 不写）",
   "totals": {
-    "outline_entries": 92,
+    "outline_entries": 94,
     "done": 91,
-    "todo": 0,
+    "todo": 2,
     "oversize": 3,
     "appendix": 4
   },
@@ -247,6 +247,16 @@
     {
       "id": "4.4",
       "part": 4,
+      "title": "门诊慢特病与个人账户共济",
+      "file": "content/cn/04-healthcare/chronic-disease-and-medical-account.md",
+      "status": "todo",
+      "chars": 0,
+      "note": null,
+      "updated": "2026-11-26"
+    },
+    {
+      "id": "4.5",
+      "part": 4,
       "title": "异地就医备案",
       "file": "content/cn/04-healthcare/cross-province-medical-filing.md",
       "status": "done",
@@ -254,7 +264,7 @@
       "note": null
     },
     {
-      "id": "4.5",
+      "id": "4.6",
       "part": 4,
       "title": "救护车与 120：什么时候该叫、怎么叫",
       "file": "content/cn/04-healthcare/emergency-care-and-120.md",
@@ -263,7 +273,7 @@
       "note": null
     },
     {
-      "id": "4.6",
+      "id": "4.7",
       "part": 4,
       "title": "急诊室：分诊、费用与维权",
       "file": "content/cn/04-healthcare/emergency-room-triage-and-costs.md",
@@ -272,7 +282,7 @@
       "note": null
     },
     {
-      "id": "4.7",
+      "id": "4.8",
       "part": 4,
       "title": "现场急救：心肺复苏、AED 与气道梗阻",
       "file": "content/cn/04-healthcare/first-aid-cpr-and-aed.md",
@@ -281,7 +291,7 @@
       "note": null
     },
     {
-      "id": "4.8",
+      "id": "4.9",
       "part": 4,
       "title": "住院流程：从开住院证到出院",
       "file": "content/cn/04-healthcare/hospitalization-process.md",
@@ -290,7 +300,7 @@
       "note": null
     },
     {
-      "id": "4.9",
+      "id": "4.10",
       "part": 4,
       "title": "住院费用与结算",
       "file": "content/cn/04-healthcare/hospitalization-costs-and-settlement.md",
@@ -299,7 +309,7 @@
       "note": null
     },
     {
-      "id": "4.10",
+      "id": "4.11",
       "part": 4,
       "title": "大病保险：怎么报、报多少",
       "file": "content/cn/04-healthcare/catastrophic-insurance.md",
@@ -309,7 +319,7 @@
       "updated": "2026-11-25"
     },
     {
-      "id": "4.11",
+      "id": "4.12",
       "part": 4,
       "title": "医疗救助：谁能申请、怎么申请",
       "file": "content/cn/04-healthcare/medical-assistance.md",
@@ -319,7 +329,7 @@
       "updated": "2026-11-25"
     },
     {
-      "id": "4.12",
+      "id": "4.13",
       "part": 4,
       "title": "慈善资源与个人众筹",
       "file": "content/cn/04-healthcare/charity-and-crowdfunding.md",
@@ -329,7 +339,7 @@
       "updated": "2026-11-25"
     },
     {
-      "id": "4.13",
+      "id": "4.14",
       "part": 4,
       "title": "心理健康服务获取：找谁、多少钱",
       "file": "content/cn/04-healthcare/mental-health-services.md",
@@ -339,7 +349,7 @@
       "updated": "2026-11-25"
     },
     {
-      "id": "4.14",
+      "id": "4.15",
       "part": 4,
       "title": "精神科就诊、用药与危机干预",
       "file": "content/cn/04-healthcare/mental-health-crisis.md",
@@ -408,6 +418,16 @@
     {
       "id": "5.7",
       "part": 5,
+      "title": "不服裁决：一裁终局、起诉与强制执行",
+      "file": "content/cn/05-work/after-arbitration-award.md",
+      "status": "todo",
+      "chars": 0,
+      "note": null,
+      "updated": "2026-11-26"
+    },
+    {
+      "id": "5.8",
+      "part": 5,
       "title": "灵活就业与社保自缴",
       "file": "content/cn/05-work/flexible-employment-social-insurance.md",
       "status": "done",
@@ -416,7 +436,7 @@
       "updated": "2026-11-25"
     },
     {
-      "id": "5.8",
+      "id": "5.9",
       "part": 5,
       "title": "个体户 / 公司 / 自由职业者的选择",
       "file": "content/cn/05-work/self-employment-structures.md",
@@ -426,7 +446,7 @@
       "updated": "2026-11-25"
     },
     {
-      "id": "5.9",
+      "id": "5.10",
       "part": 5,
       "title": "注册、报税与注销：一个主体的开办到退出",
       "file": "content/cn/05-work/business-registration-and-deregistration.md",
