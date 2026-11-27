@@ -1,13 +1,15 @@
 {
   "version": 1,
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "scope": "content/cn v1（一线+新一线；12.3 二线及以下 v1 不写）",
   "totals": {
     "outline_entries": 95,
     "done": 94,
     "todo": 0,
     "oversize": 0,
-    "appendix": 4
+    "appendix": 4,
+    "appendix_done": 4,
+    "appendix_todo": 0
   },
   "entries": [
     {
@@ -925,26 +927,34 @@
     {
       "id": "A",
       "title": "常用热线总表",
-      "file": null,
-      "status": "todo"
+      "file": "content/cn/99-appendix/appendix-a-hotline-directory.md",
+      "status": "done",
+      "chars": 2995,
+      "updated": "2026-11-27"
     },
     {
       "id": "B",
       "title": "常用政务渠道总表",
-      "file": null,
-      "status": "todo"
+      "file": "content/cn/99-appendix/appendix-b-government-channels.md",
+      "status": "done",
+      "chars": 2094,
+      "updated": "2026-11-27"
     },
     {
       "id": "C",
       "title": "场景索引",
-      "file": null,
-      "status": "todo"
+      "file": "content/cn/99-appendix/appendix-c-scenario-index.md",
+      "status": "done",
+      "chars": 3941,
+      "updated": "2026-11-27"
     },
     {
       "id": "D",
       "title": "时效与复核记录",
-      "file": null,
-      "status": "todo"
+      "file": "content/cn/99-appendix/appendix-d-currency-and-review-log.md",
+      "status": "done",
+      "chars": 1671,
+      "updated": "2026-11-27"
     }
   ]
 }
